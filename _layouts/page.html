@@ -7,7 +7,7 @@
 {% include _head.html %}
 </head>
 
-<body class="page">
+<body class="page all-pages">
 
 {% include _browser-upgrade.html %}
 
@@ -30,7 +30,13 @@
   </div><!-- /.image-wrap -->
 {% endif %}
 
+
+
 <div id="main" role="main">
+    <div class="article-author-side">
+        <h1>{{ page.title }}</h1>
+    </div>
+    <div>
   <article>
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
@@ -40,6 +46,7 @@
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
     {% endif %}
   </article>
+    </div>
 </div><!-- /#index -->
 
 <div class="footer-wrap">

@@ -1,7 +1,7 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "Redhill Aviation is a flying school based at Redhill Aerodrome"
+tags: [redhill, flying, lesson, school, ppl, aerodrome, hire, aircraft]
 image:
   feature: homepage.jpg
 ---

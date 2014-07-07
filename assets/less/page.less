@@ -269,23 +269,6 @@ body {
 .image-wrap {
 	position: relative;
 	margin-bottom: 2em;
-	&:after {
-		content: " ";
-		display: block;
-		position: absolute;
-		bottom: -1px;
-		left: 8%;
-		width: 0;
-		height: 0;
-		border: 20px solid transparent;
-		border-bottom-color: @bodycolor;
-		@media @600px {
-			left: 25%;
-		}
-		@media @1382px {
-			left: 33.333333333%;
-		}
-	}
 	img {
 		width: 100%;
 		height: auto;

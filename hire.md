@@ -3,6 +3,7 @@ layout: page
 permalink: /aircraft-hire/
 title: Aircraft hire
 tagline: Plane Hire with Redhill Aviation
+navigation-title: Aircraft Hire
 tags: [plane hire, redhill, flying]
 modified: 9-9-2013
 ---

@@ -3,6 +3,7 @@ layout: page
 permalink: /experience-flights/
 title: Experience Flights
 tagline: Experience Flights with Redhill Aviation
+navigation-title: Experience Flights
 tags: [trial flight, aerobatics, redhill, flying]
 modified: 9-9-2013
 ---

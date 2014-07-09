@@ -26,33 +26,40 @@ More of an adrenalin junkie? Try our aerobatics experience. Prices start from £
 </p></div>
 
 <div> All prices stated include VAT</div>
-<div class="prices-table">
-    <div class="row">
-        <div class="col-md-6"></div>
-        <div class="col-md-3">30 mins</div>
-        <div class="col-md-3">1 hour</div>
-    </div>
-    <div class="row">
-        <div class="col-md-6">Cessna 152 (2 seater)</div>
-        <div class="col-md-3">£95</div>
-        <div class="col-md-3">£170</div>
-    </div>
-    <div class="row">
-        <div class="col-md-6">PA 28 (4 seater)</div>
-        <div class="col-md-3">£130</div>
-        <div class="col-md-3">£205</div>
-    </div>
-    <div class="row">
-        <div class="col-md-6">Going for a spin in Cessna 152</div>
-        <div class="col-md-3">£110</div>
-        <div class="col-md-3">-</div>
-    </div>
-    <div class="row">
-        <div class="col-md-6">Aerobatics in Cessna 152</div>
-        <div class="col-md-3">£115</div>
-        <div class="col-md-3">£200</div>
-    </div>
-</div>
+
+<div>
+
+<table class="prices-table trial-flights-prices">
+    <thead>
+        <tr class="row">
+            <th></th>
+            <th>30 mins</th>
+            <th>1 hour</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="row">
+            <td>Trial Flight in Cessna 152 (2 seater)</td>
+            <td>£95</td>
+            <td>£170</td>
+        </tr>
+        <tr class="row">
+            <td>Trial Flight in PA 28 (4 seater)</td>
+            <td>£130</td>
+            <td>£205</td>
+        </tr>
+        <tr class="row">
+            <td>Going for a spin in Cessna 152</td>
+            <td>£110</td>
+            <td>-</td>
+        </tr>
+        <tr class="row">
+            <td>Aerobatics in Cessna 152</td>
+            <td>£115</td>
+            <td>£200</td>
+        </tr>
+    </tbody>
+</table>
 
 <div>
 <p>

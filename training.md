@@ -66,52 +66,55 @@ tags: [training, redhill, flying]
   <li>The discounted rate is available by payment of the package costs in two equal instalments, except the night qualification that must be paid in full.</li>
   </ul>
   </div>
-<div class="prices-table">
-    <div class="row">
-        <div class="col-md-6"></div>
-        <div class="col-md-2">Cessna 152</div>
-        <div class="col-md-2">PA28-181 Archer</div>
-        <div class="col-md-2">PA28 Arrow</div>
-    </div>
-    <div class="row">
-        <div class="col-md-6">LAPL (30 hours)</div>
-        <div class="col-md-2">£4590</div>
-        <div class="col-md-2">£5535</div>
-        <div class="col-md-2">-</div>
-    </div>
-    <div class="row">
-        <div class="col-md-6">PPL (45 hours)</div>
-        <div class="col-md-2">6885</div>
-        <div class="col-md-2">8302.50</div>
-        <div class="col-md-2">-</div>
-    </div>
-    <div class="row">
-        <div class="col-md-6">Night Qualification</div>
-        <div class="col-md-2">£810</div>
-        <div class="col-md-2">£954</div>
-        <div class="col-md-2">£1180</div>
-    </div>
-    <div class="row">
-        <div class="col-md-6">IMC Rating</div>
-        <div class="col-md-2">£2445</div>
-        <div class="col-md-2">£2902.50</div>
-        <div class="col-md-2">£3675</div>
-    </div>
-    <div class="row">
-        <div class="col-md-6">Aerobatics Rating</div>
-        <div class="col-md-2">£1638</div>
-        <div class="col-md-2">-</div>
-        <div class="col-md-2">-</div>
-    </div>
-    <div class="row">
-        <div class="col-md-6">Safety Pilot Course</div>
-        <div class="col-md-2">£1530</div>
-        <div class="col-md-2">£2050</div>
-        <div class="col-md-2">-</div>
-    </div>
+<table class="prices-table training-discounts">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Cessna 152</th>
+            <th>PA28-181 Archer</th>
+            <th>PA28 Arrow</th>
+        </tr>
+    </thead>  
+    <tbody>
+        <tr>
+            <td>LAPL (30 hours)</td>
+            <td>£4590</td>
+            <td>£5535</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>PPL (45 hours)</td>
+            <td>6885</td>
+            <td>8302.50</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Night Qualification</td>
+            <td>£810</td>
+            <td>£954</td>
+            <td>£1180</td>
+        </tr>
+        <tr>
+            <td>IMC Rating</td>
+            <td>£2445</td>
+            <td>£2902.50</td>
+            <td>£3675</td>
+        </tr>
+        <tr>
+            <td>Aerobatics Rating</td>
+            <td>£1638</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Safety Pilot Course</td>
+            <td>£1530</td>
+            <td>£2050</td>
+            <td>-</td>
+        </tr>
+    </tbody>
 
-
-</div>
+</table>
 
 <div>
 <p>

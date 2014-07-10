@@ -136,3 +136,64 @@
     content: "PA28 Archer - Discounted";
   }
 }
+@media only screen and (max-width: 365px) {
+  .training-discounts.prices-table {
+    display: block;
+    /* Force table to not be like tables anymore */
+  
+    /* Hide table headers (but not display: none;, for accessibility) */
+  
+    /*
+          Label the data
+          */
+  
+  }
+  .training-discounts.prices-table table,
+  .training-discounts.prices-table thead,
+  .training-discounts.prices-table tbody,
+  .training-discounts.prices-table th,
+  .training-discounts.prices-table td,
+  .training-discounts.prices-table tr {
+    display: block;
+  }
+  .training-discounts.prices-table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  .training-discounts.prices-table tr {
+    border: 1px solid #ccc;
+  }
+  .training-discounts.prices-table td {
+    /* Behave  like a "row" */
+  
+    border: none;
+    border-bottom: 1px solid #eee;
+    position: relative;
+    padding-left: 63%;
+  }
+  .training-discounts.prices-table td:before {
+    /* Now like a table header */
+  
+    position: absolute;
+    /* Top/left values mimic padding */
+  
+    top: 6px;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+  }
+  .training-discounts.prices-table td:nth-of-type(1):before {
+    content: "";
+  }
+  .training-discounts.prices-table td:nth-of-type(2):before {
+    content: "Cessna 152";
+  }
+  .training-discounts.prices-table td:nth-of-type(3):before {
+    content: "PA28-181 Archer";
+  }
+  .training-discounts.prices-table td:nth-of-type(4):before {
+    content: "PA28 Arrow";
+  }
+}

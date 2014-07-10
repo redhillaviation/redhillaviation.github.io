@@ -12,50 +12,53 @@ tags: [training, redhill, flying]
 <h2>Hourly Rates</h2>
 
 <div>Rates per hour for training (the discounted price is the price per hour from buying the training package - see below)</div>
-<div class="prices-table">
-    <div class="row">
-        <div class="col-md-4"></div>
-        <div class="col-md-4">Cessna 152</div>
-        <div class="col-md-4">PA28-181 Archer 180HP</div>
-    </div>
-    <div class="row">
-        <div class="col-md-4">Rate</div>
-        <div class="col-md-2">Standard</div>
-        <div class="col-md-2">Discounted</div>
-        <div class="col-md-2">Standard</div>
-        <div class="col-md-2">Discounted</div>
-    </div>
-    <div class="row">
-        <div class="col-md-4">Basic Training (Dual/Solo)</div>
-        <div class="col-md-2">£170</div>
-        <div class="col-md-2">£153</div>
-        <div class="col-md-2">£205</div>
-        <div class="col-md-2">£184.50</div>
-    </div>
-    <div class="row">
-        <div class="col-md-4">Night Training</div>
-        <div class="col-md-2">£180</div>
-        <div class="col-md-2">£162</div>
-        <div class="col-md-2">£212</div>
-        <div class="col-md-2">£190.80</div>
-    </div>
-    <div class="row">
-        <div class="col-md-4">IMC Training</div>
-        <div class="col-md-2">£182</div>
-        <div class="col-md-2">£163.80</div>
-        <div class="col-md-2">£215</div>
-        <div class="col-md-2">£193.50</div>
-    </div>
-    <div class="row">
-        <div class="col-md-4">Aerobatics</div>
-        <div class="col-md-2">£182</div>
-        <div class="col-md-2">£163.80</div>
-        <div class="col-md-2">-</div>
-        <div class="col-md-2">-</div>
-    </div>
+<table class="prices-table training-hourly-rates">
+    <thead>
+        <tr>
+            <th></th>
+            <th colspan="2">Cessna 152</th>
+            <th colspan="2">PA28-181 Archer 180HP</th>
+        </tr>
+        <tr>
+            <th>Rate</th>
+            <th>Standard</th>
+            <th>Discounted</th>
+            <th>Standard</th>
+            <th>Discounted</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Basic Training (Dual/Solo)</td>
+            <td>£170</td>
+            <td>£153</td>
+            <td>£205</td>
+            <td>£184.50</td>
+        </tr>
+        <tr>
+            <td>Night Training</td>
+            <td>£180</td>
+            <td>£162</td>
+            <td>£212</td>
+            <td>£190.80</td>
+        </tr>
+        <tr>
+            <td>IMC Training</td>
+            <td>£182</td>
+            <td>£163.80</td>
+            <td>£215</td>
+            <td>£193.50</td>
+        </tr>
+        <tr>
+            <td>Aerobatics</td>
+            <td>£182</td>
+            <td>£163.80</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
 
-
-</div>
+</table>
 
 <h2>Training packages - discounted rates</h2>
 <div><ul><li>The packages below are for flight time only and do not include landing fees etc.</li>

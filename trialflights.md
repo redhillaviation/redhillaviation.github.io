@@ -31,7 +31,7 @@ More of an adrenalin junkie? Try our aerobatics experience. Prices start from £
 
 <table class="prices-table trial-flights-prices">
     <thead>
-        <tr class="row">
+        <tr>
             <th></th>
             <th>30 mins</th>
             <th>1 hour</th>

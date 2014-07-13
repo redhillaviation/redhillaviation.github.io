@@ -10,13 +10,13 @@ modified: 9-9-2013
 
 <div>
 <ul>
-<li>Ever wondered what it would be like to fly a plane?</li>
+<li>Ever wondered what it would be like to fly an aircraft?</li>
 <li>Looking for that special present?</li>
 </ul>
 <div>
 
 <div><p>
-Our trial flights are a great way to experience the thrill of flying a plane. Prices start from £95
+Our trial flights are a great way to experience the thrill of flying an aircraft. Prices start from £95
 </p>
 </div>
 

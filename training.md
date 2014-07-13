@@ -84,8 +84,8 @@ tags: [training, redhill, flying]
         </tr>
         <tr>
             <td>PPL (45 hours)</td>
-            <td>6885</td>
-            <td>8302.50</td>
+            <td>£6885</td>
+            <td>£8302.50</td>
             <td>-</td>
         </tr>
         <tr>

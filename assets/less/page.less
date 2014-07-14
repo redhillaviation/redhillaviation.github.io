@@ -294,9 +294,14 @@ body {
 	position: relative;
 	margin-bottom: 2em;
 	img {
-		width: 100%;
+        margin-left: 10%;
+		width: 80%;
 		height: auto;
 		-ms-interpolation-mode: bicubic;
+        @media @900px {
+          width: auto;
+          height: 18.75em
+        }
 	}
 	.headline-wrap {
 		position: absolute;

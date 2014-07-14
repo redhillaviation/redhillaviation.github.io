@@ -231,6 +231,18 @@ body {
 	-ms-transition: max-height .4s;
 	transition: max-height .4s;
 }
+.index-main {
+  article {
+    .container();
+    .grid(12,10);
+    .prefix(12,1);
+    .suffix(12,1);
+    p+p {
+      text-indent: 0;
+      margin-top: -0.625rem;
+    }
+  }
+}
 #main {
 	counter-reset: captions;
 	.container();

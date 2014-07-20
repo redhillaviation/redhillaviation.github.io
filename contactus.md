@@ -13,6 +13,8 @@ tags: [contact us, redhill, flying]
        <dd><a href="tel:01737822959">01737 822 959</a></dd>
        <dt>Email:</dt>
        <dd><a href="mailto:redhillaviation@aol.com">redhillaviation@aol.com</a></dd>
+       <dt>Web:</dt>
+       <dd><a href="http://www.redhillaviation.co.uk">www.redhillaviation.co.uk</a></dd>
        <dt>Address:</dt>
        <dd>Redhill Aviation</dd>
        <dd>Redhill Aerodrome</dd>

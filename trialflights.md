@@ -16,13 +16,13 @@ modified: 9-9-2013
 <div>
 
 <div><p>
-Our trial flights are a great way to experience the thrill of flying an aircraft. Prices start from £95
+Our trial flights are a great way to experience the thrill of flying an aircraft. Prices start from £95.
 </p>
 </div>
 
 <div>
 <p>
-More of an adrenalin junkie? Try our aerobatics experience. Prices start from £115.
+More of an adrenalin junkie? Try our aerobatics experience! Prices start from £115.
 </p></div>
 
 <div> All prices stated include VAT</div>
@@ -63,6 +63,6 @@ More of an adrenalin junkie? Try our aerobatics experience. Prices start from £
 
 <div>
 <p>
-To book your flight experience call 01737 822959 today
+To book your flight experience call 01737 822959 today.
 </p>
 </div>

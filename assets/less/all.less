@@ -1,0 +1,120 @@
+@import "variables.less";
+@import "mixins.less";
+body {
+  background-color: @bodycolor;
+  font-family: @base-font;
+  color: @text-color;
+  font-size: 16px
+}
+.main-container {
+  width: auto;
+  position: relative;
+  margin: 0 auto;
+  background-color: #FAFAFA;
+
+  @media @1000minwidth {
+    width: 980px;
+  }
+}
+.heading-wrapper {
+  padding: 1em 0 0;
+  .font-rem(20);
+  color: #000080;
+  @media @1382px {
+    .grid(12,11.75);
+  }
+}
+.navigation-wrapper {
+  .container();
+  padding: 0 0 0;
+  font-family: @heading-font;
+  font-weight: 700;
+  text-transform: uppercase;
+  .clearfix();
+}
+.site-name {
+  a {
+    color: red;
+    font-style: italic;
+    font-size: 1.25em;
+    font-weight: 700;
+  }
+  .grid(12,10);
+  .prefix(12,1);
+  .suffix(12,1);
+  float: none;
+  display: block;
+  .font-rem(24);
+  @media @600px {
+    .grid(12,3);
+    .prefix(12,0.5);
+    .suffix(12,0.5);
+    .font-rem(16);
+  }
+  @media @1382px {
+    .grid(12,2);
+  }
+}
+.book-now {
+  .grid(12,10);
+  .prefix(12,1);
+  .suffix(12,1);
+  margin-bottom: 1em;
+  float: none;
+  display: block;
+  @media @600px {
+.grid(12,7.5);
+  .prefix(12,0);
+  .suffix(12,0);
+}
+}
+.top-navigation {
+  .grid(12,10);
+  .prefix(12,1);
+  .suffix(12,1);
+  margin-bottom: 1em;
+  float: none;
+  display: block;
+  @media @600px {
+    .grid(12,9);
+    .prefix(12,0.5);
+    .suffix(12,0.5);
+  }
+  @media @1382px {
+    .grid(12,8);
+    .prefix(12, 2);
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+    clear: both;
+    list-style-type: none;
+  }
+  li {
+    display: block;
+    list-style-type: none;
+    border-bottom: 1px solid lighten(@black,80);
+    border-bottom: 1px solid fade(@black,10);
+    .font-rem(16);
+    &:last-child {
+      border-bottom: 0 solid transparent;
+    }
+    @media @600px {
+    display: inline;
+      margin-right: 25px;
+      white-space: nowrap;
+      border-bottom: 0 solid transparent;
+    }
+    a {
+      display: block;
+      padding: 10px 0;
+      decoration: none;
+      border-bottom: 0 solid transparent;
+      .transition(all .2s);
+      @media @600px {
+        display: inline;
+        padding: 0;
+      }
+    }
+  }
+}

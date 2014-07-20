@@ -7,7 +7,7 @@ navigation-title: Training
 tags: [training, redhill, flying]
 ---
 
-<div>Prices listed below are inclusive of VAT but exclude landing and circuit fees</div>
+<div>Prices listed below are inclusive of VAT but exclude landing and circuit fees.</div>
 
 <h2>Hourly Rates</h2>
 
@@ -63,7 +63,7 @@ tags: [training, redhill, flying]
 <h2>Training packages - discounted rates</h2>
 <div><ul><li>The packages below are for flight time only and do not include landing fees etc.</li>
  <li>The cost is based on the minimum number of hours required for the qualification.</li>
-  <li>The discounted rate is available by payment of the package costs in two equal instalments, except the night qualification that must be paid in full.</li>
+  <li>The discounted rate is available by payment of the package costs in two equal instalments, except the night qualification which must be paid in full.</li>
   </ul>
   </div>
 <table class="prices-table training-discounts">

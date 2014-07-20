@@ -12,14 +12,18 @@ tags: [contact us, redhill, flying]
        <dt>Call us on:</dt>
        <dd><a href="tel:01737822959">01737 822 959</a></dd>
        <dt>Email:</dt>
-       <dd>redhillaviation@aol.com</dd>
-       <dt>Address</dt>
+       <dd><a href="mailto:redhillaviation@aol.com">redhillaviation@aol.com</a></dd>
+       <dt>Address:</dt>
        <dd>Redhill Aviation</dd>
        <dd>Redhill Aerodrome</dd>
+       <dd>Kings Mill Lane</dd>
        <dd>Redhill</dd>
        <dd>Surrey</dd>
        <dd>RH1 5JY</dd>
     </dl>
 </div>
+
+How to find us:
+<img src="{{ site.url }}/images/how-to-find-us.gif"/>
 
 

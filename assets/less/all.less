@@ -16,13 +16,14 @@ body {
     width: 980px;
   }
 }
+.header-wrapper {
+  background-color: aliceblue;
+}
 .heading-wrapper {
   padding: 1em 0 0;
   .font-rem(20);
   color: #000080;
-  @media @1382px {
-    .grid(12,11.75);
-  }
+
 }
 .navigation-wrapper {
   .container();
@@ -31,6 +32,13 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   .clearfix();
+  a {
+    color: #000000;
+  }
+  .active-menu {
+    background-color: navy;
+    color: #ffffff;
+  }
 }
 .site-name {
   a {
@@ -51,9 +59,6 @@ body {
     .suffix(12,0.5);
     .font-rem(16);
   }
-  @media @1382px {
-    .grid(12,2);
-  }
 }
 .book-now {
   .grid(12,10);
@@ -73,15 +78,16 @@ body {
   .prefix(12,1);
   .suffix(12,1);
   margin-bottom: 1em;
+  margin-top: 0.75em;
   float: none;
   display: block;
   @media @600px {
-    .grid(12,9);
+    .grid(12,11);
     .prefix(12,0.5);
     .suffix(12,0.5);
   }
   @media @1382px {
-    .grid(12,8);
+    .grid(12,10);
     .prefix(12, 2);
   }
   ul {
@@ -113,7 +119,7 @@ body {
       .transition(all .2s);
       @media @600px {
         display: inline;
-        padding: 0;
+        padding: 0.25em;
       }
     }
   }

@@ -11,13 +11,24 @@
     <div class="navigation-wrapper">
         <div class="top-navigation">
             <nav role="navigation" id="site-nav" class="nav">
-                <ul>
+                <ul class="main-menu">
                     {% for link in site.links %}
                     <li><a href="{{ link.url }}"
                         {% if link.external %}target="_blank"{% endif %}
                         {% if page.navigation-title == link.title %}class="active-menu"{% endif %}
 
-                        >{{ link.title }}</a></li>
+                        >{{ link.title }}</a>
+                        {% if link.sublinks.size > 0 %}
+                            <ul {% if page.navigation-title == link.title %}class="submenu-active-menu"{% else %}class="submenu-hidden-menu"{% endif %}>
+                                {% for sublink in link.sublinks %}
+                                <li>
+                                    <a href="{{ sublink.url }}">{{ sublink.title }}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        {% endif %}
+                    </li>
+
                     {% endfor %}
                 </ul>
             </nav>

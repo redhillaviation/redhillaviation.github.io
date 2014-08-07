@@ -68,10 +68,10 @@ body {
   float: none;
   display: block;
   @media @600px {
-.grid(12,7.5);
+  .grid(12,7.5);
   .prefix(12,0);
   .suffix(12,0);
-}
+  }
 }
 .top-navigation {
   .grid(12,10);
@@ -120,6 +120,31 @@ body {
       @media @600px {
         display: inline;
         padding: 0.25em;
+      }
+    }
+    .submenu-hidden-menu {
+      display: none;
+    }
+    ul {
+      display: none;
+      position: absolute;
+      background-color: navy;
+
+      @media @600px {
+        .grid(12,8);
+        .suffix(12,0.5);
+      }
+
+      a {
+        color: white;
+      }
+    }
+    .submenu-active-menu {
+      @media @600px {
+        display: block;
+        padding-bottom: 0.5em;
+        padding-top: 0.5em;
+        margin-top: 0.5em;
       }
     }
   }

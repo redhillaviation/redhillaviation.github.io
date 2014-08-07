@@ -41,6 +41,11 @@ links:
     url: /experience-flights/
   - title: Training
     url: /training/
+    sublinks:
+      - title: Overview
+        url: /training/
+      - title: Learning to fly
+        url: /learning-to-fly/
   - title: Aircraft Hire
     url: /aircraft-hire/
   - title: Our Fleet

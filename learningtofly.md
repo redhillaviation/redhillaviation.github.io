@@ -5,6 +5,7 @@ title: Learning to Fly
 tagline: PPL Training with Redhill Aviation
 tags: [ppl, training, redhill, flying]
 navigation-title: Training
+sub-navigation-title: Learning to fly
 ---
 
 <h4>EASA PPL:</h4>

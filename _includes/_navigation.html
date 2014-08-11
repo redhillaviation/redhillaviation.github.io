@@ -22,7 +22,9 @@
                             <ul {% if page.navigation-title == link.title %}class="submenu-active-menu"{% else %}class="submenu-hidden-menu"{% endif %}>
                                 {% for sublink in link.sublinks %}
                                 <li>
-                                    <a href="{{ sublink.url }}">{{ sublink.title }}</a>
+                                    <a href="{{ sublink.url }}"
+                                            {% if page.sub-navigation-title == sublink.title %}class="active-submenu"{% endif %}
+                                            >{{ sublink.title }}</a>
                                 </li>
                                 {% endfor %}
                             </ul>

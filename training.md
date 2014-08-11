@@ -4,6 +4,7 @@ permalink: /training/
 title: Training
 tagline: Training with Redhill Aviation
 navigation-title: Training
+sub-navigation-title: Overview
 tags: [training, redhill, flying]
 ---
 

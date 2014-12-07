@@ -26,12 +26,12 @@ tags: [plane hire, redhill, flying]
             <td>Standard Price</td>
             <td>-</td>
             <td>£134.75</td>
-            <td>£176</td>
+            <td>£176.00</td>
         </tr>
         <tr>
             <td>5%</td>
             <td>10 - 25 hours</td>
-            <td>£128</td>
+            <td>£128.00</td>
             <td>£167.20</td>
         </tr>
         <tr>
@@ -41,10 +41,19 @@ tags: [plane hire, redhill, flying]
             <td>£158.40</td>
         </tr>
         <tr>
-            <td>12% (Monday, Tuesday, Wednesday only)</td>
+            <td>12% </td>
             <td>40+ hours</td>
             <td>£118.80</td>
             <td>£154.88</td>
         </tr>
+
+
+        <tr>
+            <td> OR..... Mondays, Tuesday & Wednesday only</td>
+            <td>-</td>
+            <td>£118.80</td>
+            <td>£154.88</td>
+        </tr>
+
     </tbody>
 </table>

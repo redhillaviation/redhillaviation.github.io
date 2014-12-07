@@ -23,7 +23,7 @@ tags: [plane hire, redhill, flying]
     </thead>
     <tbody>
         <tr>
-            <td>0%</td>
+            <td>Standard Price</td>
             <td>-</td>
             <td>£134.75</td>
             <td>£176</td>

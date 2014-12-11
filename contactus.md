@@ -16,7 +16,7 @@ tags: [contact us, redhill, flying]
        <dt>Web:</dt>
        <dd><a href="http://www.redhillaviation.co.uk">www.redhillaviation.co.uk</a></dd>
        <dt>Address:</dt>
-       <dd>Redhill Aviation</dd>
+       <dd>Redhill Aviation Flight Training</dd>
        <dd>Redhill Aerodrome</dd>
        <dd>Kings Mill Lane</dd>
        <dd>Redhill</dd>

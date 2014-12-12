@@ -15,17 +15,17 @@ image:
 
 <p>Redhill aerodrome is a licensed airfield with three runways and full Air Traffic Control. It is open 0900 to 1700 during winter months and 0900 to 1900 during the summer, extensions can also be arranged.</p>
 
-<p>Meet The Team:
+<p>Meet our team:
 <ul>
 <li>Laurance Harley - Senior Flying Instructor. Laurance started his aviation career aged just 14 on gliders, going solo aged 16 with the Air Cadets. He now holds a CPL/IR & MEP. Laurance instructs PPL, Night, IMC and CPL and is also an examiner. When not flying, he finds time to work as full time Air Traffic Controller at Gatwick Airport!
 </li>
-<p><li>Jim Stevens - Senior Flying Instructor. Jim has been flying and instructing for 35 years and has nearly 10,000 hours. He is both an examiner and RT examiner and instructs PPL, Night, IMC .
+<p><li>Jim Stevens - Senior Flying Instructor. Jim has been flying since 1974 and instructing since 1978. Jim has a CPL/IR(R) and nearly 10,000 hours. He is a flight examiner, ground examiner and radio telephony instructor. Jim instructs PPL, Night and IMC.
 </li>
 <p><li>Geoff Pyke - Flying Instructor. Geoff started his career as an instructor, has flown all the classic jets including the 747 and has now returned to instructing. He offers his vast knowledge on a part-time basis. 
 </li>
 <p><li>Dan Robertson - Qualified Flying Instructor. Dan works at weekends. He holds a CPL/IR and has aided many people to acheive their PPL.
 </li>
-<p><li>Dave Thorne - Operations Controller. Dave joined us in 2006 having previously worked as a manager at the Post Office. You will find him very helpful and knowledgeable and ready to answer any queries you may have.  
+<p><li>Dave Thorne - Operations Controller. Dave joined us in 2006 having previously worked as a manager at the Post Office. You will find him very knowledgeable, helpful and ready to answer any queries you may have.  
 </ul>
 </p>
 

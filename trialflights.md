@@ -9,7 +9,7 @@ modified: 9-9-2013
 ---
 
 <div>
-    We offer a range of air experience flights, from short experience flights to trips to other airfields and aerobatics for the thrill seeker. We also offer two PPL starter packages for those considering doing a PPL. Prices start from £95.
+    We offer a range of air experience flights, from 30 minute experience flights to trips to other airfields and aerobatics for the thrill seeker. We also offer two PPL starter packages for those considering doing a PPL. Prices start from £95.
 </div>
 
 <p>
@@ -18,7 +18,7 @@ modified: 9-9-2013
         <ul>
             <li><a href="#experience">30 or 60 minute air experience flight</a></li>
             <li><a href="#aerobatics">Aerobatics Experience</a></li>
-            <li><a>A trip to another airfield and back</a></li>
+            <li><a href="#landaway">A flight to another airfield and back</a></li>
             <li><a>PPL Starter Packages</a></li>
         </ul>
     </div>
@@ -37,12 +37,12 @@ The air experience package consists of a short pre-flight briefing conducted in 
         </thead>
         <tbody>
             <tr>
-                <td>Trial Flight in Cessna 152 (2 seater)</td>
+                <td>Two seater aircraft</td>
                 <td>£95</td>
                 <td>£170</td>
             </tr>
             <tr>
-                <td>Trial Flight in PA 28 (4 seater)</td>
+                <td>Four seater aircraft</td>
                 <td>£130</td>
                 <td>£199</td>
             </tr>
@@ -114,6 +114,67 @@ The air experience package consists of a short pre-flight briefing conducted in 
                         <select name="os0">
                             <option value="30 mins in a C152 Aerobat -">30 mins in a C152 Aerobat - £115.00 GBP</option>
                             <option value="60 mins in a C152 Aerobat -">60 mins in a C152 Aerobat - £200.00 GBP</option>
+                        </select>
+                    </td>
+                    <td>
+                        <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+                    </td>
+                </tr>
+            </table>
+            <input type="hidden" name="currency_code" value="GBP">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+        </form>
+    </div>
+</div>
+
+<div id="landaway">
+    <div class="experience-title">A flight to another airfield and back</div>
+    This experience consists of a flight, landing away at another airfield and then returning to Redhill.
+    As with all trial lessons, we brief you first and you have the chance to fly the aircraft but with the added bonus of being able to experience a landing at another airfield.
+    This is ideal for those looking to do something a little different or (four seater aircraft only) those who whis the share the fun (or cost) with friends/family.
+    <table class="prices-table trial-flights-prices">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Fairoaks 2 x 30 min flights</th>
+                <th>Biggin Hill 2 x 30 min flights</th>
+                <th>Headcorn 2 x 45 min flights</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Two seater aircraft</td>
+                <td>£205</td>
+                <td>£205</td>
+                <td>£305</td>
+            </tr>
+            <tr>
+                <td>Four seater aircraft</td>
+                <td>£242</td>
+                <td>£242</td>
+                <td>£370</td>
+            </tr>
+        </tbody>
+     </table>
+
+    <div>
+        <div class="gift-voucher">Buy a gift voucher (<a href="#terms">Terms and Conditions</a>)</div>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="X4HTU7AKBN286">
+            <table class="paypal-table">
+                <tr>
+                    <td><input type="hidden" name="on0" value="Flight Choices">Flight Choices</td>
+                </tr>
+                <tr>
+                    <td>
+                        <select name="os0">
+                            <option value="Fairoaks - 2 seater aircraft">Fairoaks - 2 seater aircraft £205.00 GBP</option>
+                            <option value="Fairoaks - 4 seat aircraft">Fairoaks - 4 seat aircraft £242.00 GBP</option>
+                            <option value="Biggin Hill - 2 seater aircraft">Biggin Hill - 2 seater aircraft £205.00 GBP</option>
+                            <option value="Biggin Hill - 4 seater aircraft">Biggin Hill - 4 seater aircraft £242.00 GBP</option>
+                            <option value="Headcorn - 2 seater aircraft">Headcorn - 2 seater aircraft £305.00 GBP</option>
+                            <option value="Headcorn - 4 seater aircraft">Headcorn - 4 seater aircraft £370.00 GBP</option>
                         </select>
                     </td>
                     <td>

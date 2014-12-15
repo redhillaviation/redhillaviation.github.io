@@ -19,7 +19,7 @@ modified: 9-9-2013
             <li><a href="#experience">30 or 60 minute air experience flight</a></li>
             <li><a href="#aerobatics">Aerobatics Experience</a></li>
             <li><a href="#landaway">A flight to another airfield and back</a></li>
-            <li><a>PPL Starter Packages</a></li>
+            <li><a href="#ppl">PPL Starter Packages</a></li>
         </ul>
     </div>
 </p>
@@ -175,6 +175,62 @@ The air experience package consists of a short pre-flight briefing conducted in 
                             <option value="Biggin Hill - 4 seater aircraft">Biggin Hill - 4 seater aircraft £242.00 GBP</option>
                             <option value="Headcorn - 2 seater aircraft">Headcorn - 2 seater aircraft £305.00 GBP</option>
                             <option value="Headcorn - 4 seater aircraft">Headcorn - 4 seater aircraft £370.00 GBP</option>
+                        </select>
+                    </td>
+                    <td>
+                        <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+                    </td>
+                </tr>
+            </table>
+            <input type="hidden" name="currency_code" value="GBP">
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+        </form>
+    </div>
+</div>
+
+<div id="ppl">
+    <div class="experience-title">PPL Starter Packages</div>
+    For those who are seriously considering continuing on to obtain their Private Pilot's Licence (PPL) we offer two starter packages.
+    <br> The flying start package is designed to get you started on your training towards the issue of your very own PPL. It comprises 2 x 45 minute lessons, taught by one of our friendly and experienced instructors, taking you through the initial stages of the PPL course. As with all our introductory packages the price is fully inclusive of landing fees, instruction, third party insurance and club membership for the duration of the flights.
+    <br>The PPL start package is the ultimate introductory package. This option provides five hours of flight training to get you well on your way towards the issue of your PPL. In addition to five hours of training, the package includes your own flight logbook and aircraft checklist and of course all landing fees, instruction, third party insurance and club membership for the duration of the package.
+    <table class="prices-table trial-flights-prices">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Flying Start Package</th>
+                <th>PPL Starter Package</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Two seater aircraft</td>
+                <td>£300</td>
+                <td>£950</td>
+            </tr>
+            <tr>
+                <td>Four seater aircraft</td>
+                <td>£350</td>
+                <td>£1150</td>
+            </tr>
+        </tbody>
+     </table>
+
+    <div>
+        <div class="gift-voucher">Buy a gift voucher (<a href="#terms">Terms and Conditions</a>)</div>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="LGYVU77DLQ784">
+            <table class="paypal-table">
+                <tr>
+                    <td><input type="hidden" name="on0" value="Aircraft Choices"></td>
+                </tr>
+                <tr>
+                    <td>
+                        <select name="os0">
+                            <option value="Flying Start (2 x 45 minutes) - Two Seat Aircraft">Flying Start (2 x 45 minutes) - Two Seat Aircraft £300.00 GBP</option>
+                            <option value="Flying Start (2 x 45 minutes) -Four Seat Aircraft">Flying Start (2 x 45 minutes) -Four Seat Aircraft £350.00 GBP</option>
+                            <option value="PPL Starter (5 hours) - Two Seat Aircraft">PPL Starter (5 hours) - Two Seat Aircraft £950.00 GBP</option>
+                            <option value="PPL Starter (5 hours) - Four Seat Aircraft">PPL Starter (5 hours) - Four Seat Aircraft £1,150.00 GBP</option>
                         </select>
                     </td>
                     <td>

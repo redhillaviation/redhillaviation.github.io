@@ -36,4 +36,4 @@ This licence consists of 30 hours flying as follows:
 <li>You will also need a medical from an approved doctor.</li>
 </ul>
 
-Please talk to our helpful staff for more information on 01737 822959
+<p>Please talk to our helpful staff for more information on 01737 822959.

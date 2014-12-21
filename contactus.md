@@ -4,7 +4,7 @@ permalink: /contact-us/
 title: Contact Us
 tagline: Contact Details for Redhill Aviation
 navigation-title: Contact Us
-tags: [contact us, redhill, flying]
+tags: [contact us, redhill, flying, surrey]
 ---
 
 <div class="contact-us">
@@ -26,6 +26,6 @@ tags: [contact us, redhill, flying]
 </div>
 
 How to find us:
-<img src="{{ site.url }}/images/how-to-find-us.gif"/>
+<img src="{{ site.url }}/images/how-to-find-us2.gif"/>
 
 

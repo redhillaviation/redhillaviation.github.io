@@ -31,31 +31,31 @@ tags: [training, redhill, flying]
     <tbody>
         <tr>
             <td>Basic Training (Dual/Solo)</td>
-            <td>£170.00</td>
-            <td>£153.00</td>
-            <td>£200.00</td>
-            <td>£180.00</td>
+            <td align="center">£170.00</td>
+            <td align="center">£153.00</td>
+            <td align="center">£200.00</td>
+            <td align="center">£180.00</td>
         </tr>
         <tr>
             <td>Night Training</td>
-            <td>£180.00</td>
-            <td>£162.00</td>
-            <td>£212.00</td>
-            <td>£190.80</td>
+            <td align="center">£180.00</td>
+            <td align="center">£162.00</td>
+            <td align="center">£212.00</td>
+            <td align="center">£190.80</td>
         </tr>
         <tr>
             <td>IMC Training</td>
-            <td>£182.00</td>
-            <td>£163.80</td>
-            <td>£215.00</td>
-            <td>£193.50</td>
+            <td align="center">£182.00</td>
+            <td align="center">£163.80</td>
+            <td align="center">£215.00</td>
+            <td align="center">£193.50</td>
         </tr>
         <tr>
             <td>Aerobatics</td>
-            <td>£182.00</td>
-            <td>£163.80</td>
-            <td>n/a</td>
-            <td>n/a</td>
+            <td align="center">£182.00</td>
+            <td align="center">£163.80</td>
+            <td align="center">n/a</td>
+            <td align="center">n/a</td>
         </tr>
     </tbody>
 
@@ -79,39 +79,39 @@ tags: [training, redhill, flying]
     <tbody>
         <tr>
             <td>LAPL (30 hours)</td>
-            <td>£4590.00</td>
-            <td>£5400.00</td>
-            <td>n/a</td>
+            <td align="center">£4590.00</td>
+            <td align="center">£5400.00</td>
+            <td align="center">n/a</td>
         </tr>
         <tr>
             <td>PPL (45 hours)</td>
-            <td>£6885.00</td>
-            <td>£8100.00</td>
-            <td>n/a</td>
+            <td align="center">£6885.00</td>
+            <td align="center">£8100.00</td>
+            <td align="center">n/a</td>
         </tr>
         <tr>
             <td>Night Qualification</td>
-            <td>£810.00</td>
-            <td>£954.00</td>
-            <td>£1180.00</td>
+            <td align="center">£810.00</td>
+            <td align="center">£954.00</td>
+            <td align="center">£1180.00</td>
         </tr>
         <tr>
             <td>IMC Rating</td>
-            <td>£2445.00</td>
-            <td>£2902.50</td>
-            <td>£3675.00</td>
+            <td align="center">£2445.00</td>
+            <td align="center">£2902.50</td>
+            <td align="center">£3675.00</td>
         </tr>
         <tr>
             <td>Aerobatics Rating</td>
-            <td>£1638.00</td>
-            <td>n/a</td>
-            <td>n/a</td>
+            <td align="center">£1638.00</td>
+            <td align="center">n/a</td>
+            <td align="center">n/a</td>
         </tr>
         <tr>
             <td>Safety Pilot Course</td>
-            <td>£1530.00</td>
-            <td>£2050.00</td>
-            <td>n/a</td>
+            <td align="center">£1530.00</td>
+            <td align="center">£2050.00</td>
+            <td align="center">n/a</td>
         </tr>
     </tbody>
 

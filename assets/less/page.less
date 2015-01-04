@@ -253,9 +253,16 @@
 		margin-right: 5px;
 	}
 }
-.twitter {
+.social-media{
   display: inline;
   margin-bottom: 5px;
+  .font-rem(30);
+  margin-right: 5px
+
+}
+.twitter {
+  position: absolute;
+
   color: #00acee;
   a:visited& {
     color: #00acee;
@@ -275,6 +282,28 @@
     .grid(12,10);
     .prefix(12,1);
     .suffix(12,1);
+  }
+}
+.facebook {
+  position: relative;
+  color: #3a5a98;
+  a:visited& {
+	color: #3a5a98;
+  }
+  &:hover {
+	.scale(1.1);
+  }
+  &:active {
+	.translate(0, 2px);
+  }
+  .fa {
+	margin-right: 5px;
+  }
+  @media
+  only screen and (max-width: 760px) {
+	.grid(12,10);
+	.prefix(12,1);
+	.suffix(12,1);
   }
 }
 .article-author-side {

@@ -1,4 +1,5 @@
 @import "variables";
+@import "mixins";
 
 .page-main {
   .image-wrap {
@@ -14,5 +15,17 @@
         height: auto;
       }
     }
+  }
+
+  article {
+    .font-rem(14);
+
+    width: 94%;
+    margin-left: 3%;
+
+    @media @tablet {
+      .font-rem(16);
+    }
+
   }
 }

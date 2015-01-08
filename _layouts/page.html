@@ -12,7 +12,13 @@
 
         {% include _header.html %}
 
-        <div id="main" role="main" class="page-main">
+        <div id="main" role="main" class=
+                {% if page.main-class %}
+                "page-main {{ page.main-class }}"
+                {% else %}
+                "page-main"
+                {% endif %}
+        >
             {% if page.image.feature %}
                 <div class="image-wrap">
                     <img src=

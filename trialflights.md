@@ -6,6 +6,7 @@ tagline: Experience Flights with Redhill Aviation
 navigation-title: Experience Flights
 tags: [trial flight, aerobatics, redhill, flying]
 modified: 9-9-2013
+main-class: trial-flights
 ---
 
 <div>

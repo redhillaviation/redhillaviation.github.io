@@ -27,7 +27,7 @@ modified: 9-9-2013
 <div id="experience">
     <div class="experience-title">30 or 60 minute air experience flight</div>
 The air experience package consists of a short pre-flight briefing conducted in the classroom, or the aircraft, followed by a 30 or 60 minute introductory flying session with one of our qualified flight instructors. In either case you will get a chance both to fly the aircraft and to enjoy the view.
-    <table class="prices-table trial-flights-prices">
+    <table class="prices-table trial-flight-prices">
         <thead>
             <tr>
                 <th></th>
@@ -83,7 +83,7 @@ The air experience package consists of a short pre-flight briefing conducted in 
     The aerobatics experiences are the ultimate thrill for those with a sense of adventure, or friends and family with a mean streak.
     The 30 minute aerobatics experience is flown with a qualified aerobatics instructor in our Cessna 152 Aerobat. Enjoy the exhilaration of looping the loop, a barrel roll, a stall turn and a spin then back to boast about it to friends and family.
     The 60 minute aerobatic special is a combination of the introductory flying lesson with the thrill of the aerobatic experience.
-    <table class="prices-table trial-flights-prices">
+    <table class="prices-table aerobatics-experience-prices">
         <thead>
             <tr>
                 <th></th>
@@ -132,7 +132,7 @@ The air experience package consists of a short pre-flight briefing conducted in 
     This experience consists of a flight, landing away at another airfield and then returning to Redhill.
     As with all trial lessons, we brief you first and you have the chance to fly the aircraft but with the added bonus of being able to experience a landing at another airfield.
     This is ideal for those looking to do something a little different or (four seater aircraft only) those who whis the share the fun (or cost) with friends/family.
-    <table class="prices-table trial-flights-prices">
+    <table class="prices-table trial-land-away-prices">
         <thead>
             <tr>
                 <th></th>
@@ -193,7 +193,7 @@ The air experience package consists of a short pre-flight briefing conducted in 
     For those who are seriously considering continuing on to obtain their Private Pilot's Licence (PPL) we offer two starter packages.
     <br> The flying start package is designed to get you started on your training towards the issue of your very own PPL. It comprises 2 x 45 minute lessons, taught by one of our friendly and experienced instructors, taking you through the initial stages of the PPL course. As with all our introductory packages the price is fully inclusive of landing fees, instruction, third party insurance and club membership for the duration of the flights.
     <br>The PPL start package is the ultimate introductory package. This option provides five hours of flight training to get you well on your way towards the issue of your PPL. In addition to five hours of training, the package includes your own flight logbook and aircraft checklist and of course all landing fees, instruction, third party insurance and club membership for the duration of the package.
-    <table class="prices-table trial-flights-prices">
+    <table class="prices-table ppl-starter-prices">
         <thead>
             <tr>
                 <th></th>

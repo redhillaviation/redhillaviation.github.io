@@ -1,0 +1,106 @@
+@import "mixins";
+
+.prices-table {
+
+  width: auto;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 0.5em;
+
+  tr:nth-of-type(odd) {
+    background: #eee;
+  }
+  th {
+    background: #000080;
+    color: white;
+    font-weight: bold;
+  }
+  td, th {
+    padding: 6px;
+    border: 1px solid #ccc;
+    text-align: left;
+  }
+
+  .trial-flights-prices& {
+    @media
+    only screen and (max-width: 440px) {
+      .mobile-table();
+
+      td:nth-of-type(1):before { content: "Experiance Type"; }
+      td:nth-of-type(2):before { content: "Price for 30 min"; }
+      td:nth-of-type(3):before { content: "Price for 1 hour"; }
+    }
+  }
+
+  .aerobatics-experience-prices& {
+    @media
+    only screen and (max-width: 440px) {
+      .mobile-table();
+
+      td:nth-of-type(1):before { content: "Experiance Type"; }
+      td:nth-of-type(2):before { content: "Price for 30 min"; }
+      td:nth-of-type(3):before { content: "Price for 1 hour"; }
+    }
+  }
+
+  .trial-land-away-prices& {
+    @media
+    only screen and (max-width: 440px) {
+      .mobile-table();
+
+      td:nth-of-type(1):before { content: "Aircraft Type"; }
+      td:nth-of-type(2):before { content: "Fairoaks 2 x 30 min flights"; }
+      td:nth-of-type(3):before { content: "Biggin Hill 2 x 30 min flights"; }
+      td:nth-of-type(4):before { content: "Headcorn 2 x 45 min flights"; }
+    }
+  }
+
+  .ppl-starter-prices& {
+    @media
+    only screen and (max-width: 440px) {
+      .mobile-table();
+
+      td:nth-of-type(1):before { content: "Aircraft Type"; }
+      td:nth-of-type(2):before { content: "Flying Start Package Price"; }
+      td:nth-of-type(3):before { content: "PPL Starter Package Price"; }
+    }
+  }
+
+  .training-hourly-rates& {
+
+    @media
+    only screen and (max-width: 465px) {
+
+      .mobile-table();
+      td:nth-of-type(1):before { content: ""; }
+      td:nth-of-type(2):before { content: "Cessna 152 - Standard"; }
+      td:nth-of-type(3):before { content: "Cessna 152 - Discounted"; }
+      td:nth-of-type(4):before { content: "PA28 Archer - Standard"; }
+      td:nth-of-type(5):before { content: "PA28 Archer - Discounted"; }
+
+    }
+  }
+
+  .training-discounts& {
+
+    @media only screen and (max-width: 365px) {
+      .mobile-table();
+      td:nth-of-type(1):before { content: ""; }
+      td:nth-of-type(2):before { content: "Cessna 152"; }
+      td:nth-of-type(3):before { content: "PA28-181 Archer"; }
+      td:nth-of-type(4):before { content: "PA28 Arrow"; }
+    }
+  }
+
+  .hire-rates& {
+
+    @media only screen and (max-width: 370px) {
+      .mobile-table();
+      td:nth-of-type(1):before { content: "Discount %"; }
+      td:nth-of-type(2):before { content: "Block of Hours"; }
+      td:nth-of-type(3):before { content: "Cessna 152"; }
+      td:nth-of-type(4):before { content: "PA28 Archer"; }
+    }
+  }
+
+}

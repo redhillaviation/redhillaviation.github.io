@@ -5,9 +5,10 @@ title: Contact Us
 tagline: Contact Details for Redhill Aviation
 navigation-title: Contact Us
 tags: [contact us, redhill, flying, surrey]
+main-class: contact-us
 ---
 
-<div class="contact-us">
+<div class="contact-details">
     <dl>
        <dt>Call us on:</dt>
        <dd><a href="tel:01737822959">01737 822 959</a></dd>
@@ -25,7 +26,9 @@ tags: [contact us, redhill, flying, surrey]
     </dl>
 </div>
 
+<div class="how-to-find-us">
 How to find us:
 <img src="{{ site.url }}/images/how-to-find-us2.gif"/>
+</div>
 
 

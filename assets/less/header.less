@@ -1,5 +1,73 @@
 @import "variables";
+@import "mixins";
 
 .header {
   background-color: @header-background-colour;
+
+  .info {
+    padding-top: 1em;
+
+    .site-name {
+      position: relative;
+      display: inline-block;
+      .font-rem(28);
+      font-weight: 600;
+
+      a {
+        color: #E60000;
+        text-decoration: none;
+      }
+    }
+
+    .book-now {
+      position: relative;
+      color: @text-color;
+      display: inline-block;
+      .font-rem(20);
+
+      a {
+        color: @text-color;
+        text-decoration: none;
+      }
+    }
+
+    .logo {
+      position: relative;
+      display: inline-block;
+      img {
+        width: 50px;
+        height: auto;
+      }
+    }
+
+    .social-media{
+      position: relative;
+      .font-rem(30);
+      display: inline-block;
+
+      .twitter {
+        position: absolute;
+
+        color: #00acee;
+        a:visited& {
+          color: #00acee;
+        }
+        .font-rem(30);
+        .fa {
+          margin-right: 5px;
+        }
+      }
+      .facebook {
+        position: relative;
+        color: #3a5a98;
+        a:visited& {
+          color: #3a5a98;
+        }
+        .fa {
+          margin-right: 5px;
+        }
+      }
+
+    }
+  }
 }

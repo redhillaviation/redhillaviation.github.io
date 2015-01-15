@@ -21,12 +21,12 @@
 
     .book-now {
       position: relative;
-      color: @text-color;
+      color: @blue-colour;
       display: inline-block;
       .font-rem(20);
 
       a {
-        color: @text-color;
+        color: @blue-colour;
         text-decoration: none;
       }
     }
@@ -69,5 +69,65 @@
       }
 
     }
+  }
+
+  .nav {
+    width: 100%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    ul {
+      width: 100%;
+      margin-bottom: 0;
+      color: white;
+      background-color: #9191B5;
+      padding: 0;
+      list-style: none;
+      position: relative;
+      display: inline-block;
+      .font-rem(16);
+
+      li {
+        float: left;
+        border-left: 1px solid;
+//        position: relative;
+        a {
+          display: block;
+          color: white;
+          padding: 0.5em 0.5em;
+          text-decoration: none;
+        }
+      }
+
+
+      ul {
+        width: 150px;
+        background-color: #BFBFD4;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        visibility: hidden;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        li {
+          float: none;
+        }
+      }
+
+
+      li:hover {
+        position: relative;
+        > ul {
+          visibility: visible;
+        }
+
+      }
+    }
+
+    .active-menu,
+    .active-submenu {
+      background-color: @blue-colour;
+    }
+
   }
 }

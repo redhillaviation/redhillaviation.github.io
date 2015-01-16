@@ -75,53 +75,54 @@
     width: 100%;
     margin-bottom: 0;
     padding-bottom: 0;
+
+    .mobile-menu {
+      width: 100%;
+      font-family: @base-font;
+      color: white;
+      background-color: @blue-colour;
+      position: relative;
+      padding-bottom: 0;
+      margin-bottom: 0;
+
+      div {
+        float: left;
+        .font-rem(16);
+        padding: 0.25em 0.5em;
+      }
+
+      @media @tablet {
+        display: none;
+      }
+    }
+
+    .main-menu {
+      padding-top: 0;
+      margin-top: 0;
+      padding-left: 0;
+    }
+
     ul {
       width: 100%;
-      margin-bottom: 0;
       color: white;
       background-color: #9191B5;
-      padding: 0;
       list-style: none;
-      position: relative;
-      display: inline-block;
       .font-rem(16);
 
       li {
-        float: left;
-        border-left: 1px solid;
-//        position: relative;
+        border-bottom: 1px solid;
         a {
           display: block;
           color: white;
-          padding: 0.5em 0.5em;
           text-decoration: none;
+          padding: 0.5em 0.5em
         }
       }
-
 
       ul {
-        width: 150px;
         background-color: #BFBFD4;
-        margin: 0;
-        padding: 0;
         list-style: none;
-        visibility: hidden;
-        position: absolute;
-        top: 100%;
-        left: 0;
-        li {
-          float: none;
-        }
-      }
-
-
-      li:hover {
-        background-color: @blue-colour;
-        position: relative;
-        > ul {
-          visibility: visible;
-        }
-
+        //display: none;
       }
     }
 
@@ -129,6 +130,54 @@
     .active-submenu {
       background-color: @blue-colour;
     }
+
+    @media @tablet {
+      ul {
+        margin-bottom: 0;
+        padding: 0;
+        position: relative;
+        display: inline-block;
+
+        li {
+          float: left;
+          border-left: 1px solid;
+          border-bottom: none;
+          //        position: relative;
+          a {
+            padding: 0.5em 0.5em;
+          }
+        }
+
+
+        ul {
+          visibility: hidden;
+          display: block;
+          width: 150px;
+          margin: 0;
+          padding: 0;
+          position: absolute;
+          top: 100%;
+          left: 0;
+          li {
+            float: none;
+          }
+        }
+
+
+        li:hover {
+          background-color: @blue-colour;
+          position: relative;
+          > ul {
+            visibility: visible;
+          }
+
+        }
+      }
+
+
+
+    }
+
 
   }
 }

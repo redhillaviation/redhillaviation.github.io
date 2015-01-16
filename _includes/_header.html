@@ -17,8 +17,8 @@
     <div class="navigation-wrapper">
         <div class="top-navigation">
             <div role="navigation" id="site-nav" class="nav">
-                <button class="mobile-menu"><div class=""><i class="fa fa-reorder"></i></div><div>Menu</div></button>
-                <ul class="main-menu">
+                <button class="mobile-menu" id="mobile-menu"><div class=""><i class="fa fa-reorder"></i></div><div>Menu</div></button>
+                <ul class="main-menu" id="main-menu">
                     {% for link in site.links %}
                     <li><a href="{{ link.url }}"
                         {% if link.external %}target="_blank"{% endif %}

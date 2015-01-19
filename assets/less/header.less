@@ -25,14 +25,14 @@
       position: relative;
       display: inline-block;
       .grid(11, 5);
-      .font-rem(28);
+      .font-rem(18);
       font-weight: 600;
 
       a {
         color: #E60000;
         text-decoration: none;
         float: right;
-        padding-right: 3em;
+        padding-right: 1em;
       }
     }
 
@@ -66,7 +66,7 @@
         }
       }
       .facebook {
-        padding-left: 3em;
+        padding-left: 1.5em;
         position: relative;
         color: #3a5a98;
         a:visited& {
@@ -85,11 +85,40 @@
       display: inline-block;
       width: 100%;
       text-align: center;
-      .font-rem(20);
+      .font-rem(16);
 
       a {
         color: @blue-colour;
         text-decoration: none;
+      }
+    }
+
+    @media @tablet {
+      .site-name {
+        .font-rem(28);
+        a{
+          padding-right: 2em;
+        }
+      }
+
+      .facebook {
+        padding-left: 2em;
+      }
+
+      .book-now {
+        .font-rem(20);
+      }
+    }
+
+    @media @desktop {
+      .site-name {
+        a{
+          padding-right: 3em;
+        }
+      }
+
+      .facebook {
+        padding-left: 3em;
       }
     }
   }

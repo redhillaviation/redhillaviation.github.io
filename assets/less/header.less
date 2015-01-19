@@ -1,49 +1,57 @@
 @import "variables";
 @import "mixins";
 
+@logo-height: 50px;
+
 .header {
   background-color: @header-background-colour;
 
   .info {
     padding-top: 1em;
 
+    .line {
+      width: 100%;
+      padding-left: 1em;
+      padding-right: 1em;
+      padding-bottom: 1em;
+    }
+
+    .top-line {
+      height: @logo-height;
+    }
+
     .site-name {
+      line-height: @logo-height;
       position: relative;
       display: inline-block;
+      .grid(11, 5);
       .font-rem(28);
       font-weight: 600;
 
       a {
         color: #E60000;
         text-decoration: none;
-      }
-    }
-
-    .book-now {
-      position: relative;
-      color: @blue-colour;
-      display: inline-block;
-      .font-rem(20);
-
-      a {
-        color: @blue-colour;
-        text-decoration: none;
+        float: right;
+        padding-right: 3em;
       }
     }
 
     .logo {
       position: relative;
       display: inline-block;
+      .grid(11, 1);
       img {
-        width: 50px;
+        width: @logo-height;
         height: auto;
       }
     }
 
     .social-media{
+      .grid(11, 5);
       position: relative;
       .font-rem(30);
       display: inline-block;
+      line-height: @logo-height;
 
       .twitter {
         position: absolute;
@@ -58,6 +66,7 @@
         }
       }
       .facebook {
+        padding-left: 3em;
         position: relative;
         color: #3a5a98;
         a:visited& {
@@ -68,6 +77,20 @@
         }
       }
 
+    }
+
+    .book-now {
+      position: relative;
+      color: @blue-colour;
+      display: inline-block;
+      width: 100%;
+      text-align: center;
+      .font-rem(20);
+
+      a {
+        color: @blue-colour;
+        text-decoration: none;
+      }
     }
   }
 

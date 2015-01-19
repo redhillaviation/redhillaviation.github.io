@@ -6,6 +6,7 @@ tagline: Night Rating with Redhill Aviation
 tags: [ppl, night, training, redhill, flying]
 navigation-title: Training
 sub-navigation-title: Night Rating
+main-class: night-rating
 ---
 
  <img src="{{ site.url }}/images/nightflying.jpg" alt="nightflying"/>

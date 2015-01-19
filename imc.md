@@ -6,6 +6,7 @@ tagline: IMC with Redhill Aviation
 tags: [ppl, imc, training, redhill, flying]
 navigation-title: Training
 sub-navigation-title: IMC
+main-class: imc
 ---
 
  <img src="{{ site.url }}/images/imc.jpg" alt="imc"/>

@@ -172,7 +172,9 @@
           color: white;
           text-decoration: none;
           padding: 0.5em 0.5em;
-          word-wrap: break-word;
+          span {
+            display: inline;
+          }
         }
       }
 
@@ -203,9 +205,14 @@
           float: left;
           border-left: 1px solid;
           border-bottom: none;
+          height: 3.27em;
           //        position: relative;
           a {
             padding: 0.5em 0.3em;
+            span {
+              display: block;
+              text-align: center;
+            }
           }
         }
 
@@ -221,6 +228,7 @@
           left: 0;
           li {
             float: none;
+            height: auto;
           }
         }
 
@@ -237,6 +245,19 @@
 
 
 
+    }
+
+    @media @menu-one-line {
+      ul {
+        li {
+          height: auto;
+          a {
+            span {
+              display: inline;
+            }
+          }
+        }
+      }
     }
 
     @media @desktop {

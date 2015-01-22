@@ -22,11 +22,14 @@
                 <button class="mobile-menu" id="mobile-menu"><div class=""><i class="fa fa-reorder"></i></div><div>Menu</div></button>
                 <ul class="main-menu" id="main-menu">
                     {% for link in site.links %}
-                    <li><a href="{{ link.url }}"
+                    <li  {% if page.navigation-title == link.title %}class="active-menu"{% endif %}
+                            ><a href="{{ link.url }}"
                         {% if link.external %}target="_blank"{% endif %}
-                        {% if page.navigation-title == link.title %}class="active-menu"{% endif %}
 
-                        >{{ link.title }}</a>
+                        >
+                        {% assign titleWords = link.title | split:&nbsp; %}
+                        {% for word in titleWords %}<span>{{ word }}</span> {% endfor %}
+                        </a>
                         {% if link.sublinks.size > 0 %}
                             <ul {% if page.navigation-title == link.title %}class="submenu-active-menu"{% else %}class="submenu-hidden-menu"{% endif %}>
                                 {% for sublink in link.sublinks %}

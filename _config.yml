@@ -18,6 +18,8 @@ google_analytics:
 links:
   - title: Home
     url: /
+  - title: About Us
+    url: /about-us
   - title: Experience Flights
     url: /experience-flights/
   - title: Training

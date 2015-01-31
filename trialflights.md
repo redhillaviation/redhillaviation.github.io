@@ -10,7 +10,7 @@ main-class: trial-flights
 ---
 
 <div>
-    We offer a range of air experience flights, from 30 minute experience flights to trips to other airfields and aerobatics for the thrill seeker. We also offer two PPL starter packages for those considering doing a PPL. Prices start from £95.
+    We offer a range of air experience flights, from 30 minute experience flights to trips to other airfields and aerobatics for the thrill seeker. We also offer two PPL starter packages for those considering a PPL. Prices start from £95.
 </div>
 
 <p>

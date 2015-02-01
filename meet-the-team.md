@@ -24,7 +24,7 @@ team:
     alt: dan
   - name: Dave Thorne
     description: Operations Controller. Dave joined us in 2006 having previously worked as a manager at the Post Office. You will find him very knowledgeable, helpful and ready to answer any queries you may have.
-    img: jim.jpg
+    img: dave2.jpg
     alt: dave
 ---
 

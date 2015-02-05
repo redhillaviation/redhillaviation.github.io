@@ -6,13 +6,13 @@ tagline: Aircraft maintenance with Redhill Aviation
 navigation-title: Maintenance
 tags: [aircraft, maintenance, redhill, flying]
 ---
-
+<p>We carry out the following:</p>
 <div>
 <ul>
-<li>We are light aircraft maintenance company.</li>
-<li>We are a EASA part 145 aircraft maintenance company.</li>
-<li>We service all fixed wing aircraft below 5700 kg.</li>
-<li>We specialise in repair and rebuilds on fixed wing metal aircraft together with scheduled maintenance and all types of defect rectifications.</li>
+<li>Light aircraft maintenance.</li>
+<li>EASA part 145 approved.</li>
+<li>Scheduled maintenance of all fixed wing aircraft below 5700 kg.</li>
+<li>Specialised in repair, rebuilds & defect rectification on all fixed wing metal aircraft.</li>
 </ul>
 </div>
 

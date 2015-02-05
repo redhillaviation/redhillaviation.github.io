@@ -16,5 +16,5 @@ It can also be included with the 45 hour PPL course and consists of at least:
 <ul>
 <li>3 hours dual night training</li>
 <li>1 hour dual night navigation</li>
-<li>take off and full stop landings as pilot in command (Solo)</li>
+<li>5 take off and full stop landings as pilot in command (Solo)</li>
 </ul>

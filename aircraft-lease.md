@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /aircraft-rental/
+permalink: /aircraft-lease/
 title: Aircraft Leasing
 tagline: Aircraft Leasing with Redhill Aviation
-navigation-title: Aircraft Rental
+navigation-title: Aircraft Lease
 tags: [aircraft, rental, redhill, flying, leasing, lease, surrey, aviation]
 ---
 

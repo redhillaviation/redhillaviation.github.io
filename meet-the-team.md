@@ -20,7 +20,7 @@ team:
     alt: BOSO
   - name: Dan Robertson
     description: Qualified Flying Instructor. Dan works at weekends. He holds a CPL/IR and has aided many people to acheive their PPL.
-    img: dan.jpg
+    img: dan1.jpg
     alt: dan
   - name: Dave Thorne
     description: Operations Controller. Dave joined us in 2006 having previously worked as a manager at the Post Office. You will find him very knowledgeable, helpful and ready to answer any queries you may have.

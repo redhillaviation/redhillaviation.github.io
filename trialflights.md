@@ -132,7 +132,7 @@ The air experience package consists of a short pre-flight briefing conducted in 
     <div class="experience-title">A flight to another airfield and back</div>
     This experience consists of a flight, landing away at another airfield and then returning to Redhill.
     As with all trial lessons, we brief you first and you have the chance to fly the aircraft but with the added bonus of being able to experience a landing at another airfield.
-    This is ideal for those looking to do something a little different or (four seater aircraft only) those who whis the share the fun (or cost) with friends/family.
+    This is ideal for those looking to do something a little different or (four seater aircraft only) those who wish to share the fun (or cost) with friends/family.
     <table class="prices-table trial-land-away-prices">
         <thead>
             <tr>
@@ -192,8 +192,8 @@ The air experience package consists of a short pre-flight briefing conducted in 
 <div id="ppl" class="experience">
     <div class="experience-title">PPL Starter Packages</div>
     For those who are seriously considering continuing on to obtain their Private Pilot's Licence (PPL) we offer two starter packages.
-    <br> The flying start package is designed to get you started on your training towards the issue of your very own PPL. It comprises 2 x 45 minute lessons, taught by one of our friendly and experienced instructors, taking you through the initial stages of the PPL course. As with all our introductory packages the price is fully inclusive of landing fees, instruction, third party insurance and club membership for the duration of the flights.
-    <br>The PPL start package is the ultimate introductory package. This option provides five hours of flight training to get you well on your way towards the issue of your PPL. In addition to five hours of training, the package includes your own flight logbook and aircraft checklist and of course all landing fees, instruction, third party insurance and club membership for the duration of the package.
+    <br> The "Flying Start" package is designed to get you started on your training towards the issue of your very own PPL. It comprises 2 x 45 minute lessons, taught by one of our friendly and experienced instructors, taking you through the initial stages of the PPL course. As with all our introductory packages the price is fully inclusive of landing fees, instruction, third party insurance and club membership for the duration of the flights.
+    <br>The "PPL Starter" package is the ultimate introductory package. This option provides five hours of flight training to get you well on your way towards the issue of your PPL. In addition to five hours of training, the package includes your own flight logbook and aircraft checklist and of course all landing fees, instruction, third party insurance and club membership for the duration of the package.
     <table class="prices-table ppl-starter-prices">
         <thead>
             <tr>
@@ -259,7 +259,7 @@ The air experience package consists of a short pre-flight briefing conducted in 
         <li>Experience flights are non-refundable but may be transferred with the agreement of Redhill Aviation together with a £10 administration fee. The price includes temporary membership, landing and instructor fees.</li>
         <li>Should you wish to add to your experience, upgrades are available - please contact Redhill Aviation in advance. Such changes are easily made but may not be available on the day of flying due to other bookings.</li>
         <li>All prices include VAT.</li>
-        <li>We accept most credit and debit cards or payment by Paypal.</li>
+        <li>We accept most credit and debit cards or payment by Paypal. If purchasing a voucher as a gift, please ensure you inform us of the name of the recipient! This can be done via the "Instructions from buyer" box in Paypal.</li>
     </ul>
 </div>
 

@@ -19,7 +19,7 @@ team:
     img: geoff1.jpg
     alt: BOSO
   - name: Dan Robertson
-    description: Qualified Flying Instructor. Dan works at weekends. He holds a CPL/IR and has aided many people to acheive their PPL.
+    description: Qualified Flying Instructor. Dan has been flying for 15 years and works at weekends. He holds a CPL/IR and has aided many people to acheive their PPL.
     img: dan1.jpg
     alt: dan
   - name: Dave Thorne

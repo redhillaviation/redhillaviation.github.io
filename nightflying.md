@@ -9,6 +9,16 @@ sub-navigation-title: Night Rating
 main-class: night-rating
 ---
 
+<html>
+<head>
+<style>
+img {
+    float: right;
+}
+</style>
+</head>
+<body>
+
  <img src="{{ site.url }}/images/nightflying.jpg" alt="nightflying"/>
 
 The night rating is a 5 hour course with no exams or flight tests which qualifies you to fly VFR at night.

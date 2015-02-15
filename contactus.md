@@ -4,7 +4,7 @@ permalink: /contact-us/
 title: Contact Us
 tagline: Contact Details for Redhill Aviation
 navigation-title: Contact Us
-tags: [contact us, redhill, flying, surrey]
+tags: [contact us, redhill, flying, surrey, aviation, training]
 main-class: contact-us
 ---
 

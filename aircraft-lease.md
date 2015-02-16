@@ -13,5 +13,5 @@ tags: [aircraft, rental, redhill, flying, leasing, lease, surrey, aviation]
 </div>
 
 <div>
-<p>For more information contact the aircraft lease section on 01737 822855 or redhillair@hotmail.com</p>
+<p>For more information contact the aircraft lease section on 01737 822855 or redhillair@hotmail.co.uk</p>
 </div>

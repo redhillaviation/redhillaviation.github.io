@@ -15,7 +15,7 @@ image:
 
 <p>Redhill aerodrome is a licensed airfield with three runways and full Air Traffic Control. It is open 0900 to 1700 during winter months and 0900 to 1900 during the summer, extensions can also be arranged.</p>
 
-
+<p>Check out <a href="https://www.facebook.com/video.php?v=944451842239362&set=vb.187356691282218&type=2&theater">this video</a> of one of our aerobatics experiences</p>
 
 
 

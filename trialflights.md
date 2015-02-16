@@ -84,6 +84,7 @@ The air experience package consists of a short pre-flight briefing conducted in 
     The aerobatics experiences are the ultimate thrill for those with a sense of adventure, or friends and family with a mean streak.
     The 30 minute aerobatics experience is flown with a qualified aerobatics instructor in our Cessna 152 Aerobat. Enjoy the exhilaration of looping the loop, a barrel roll, a stall turn and a spin then back to boast about it to friends and family.
     The 60 minute aerobatic special is a combination of the introductory flying lesson with the thrill of the aerobatic experience.
+    <p>Check out <a href="https://www.facebook.com/video.php?v=944451842239362&set=vb.187356691282218&type=2&theater">this video</a> of one of our aerobatics experiences</p>
     <table class="prices-table aerobatics-experience-prices">
         <thead>
             <tr>

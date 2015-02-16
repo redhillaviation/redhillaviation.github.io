@@ -24,4 +24,4 @@ main-class: flying-club
 
 <div class="text">If you have somewhere that you would like to suggest for a future venue then let us know.</div>
 
-<div class="text">If your interested call <a href="01737 822959" class="tel">01737 822959</a> to book your aircraft/instructor.</div>
+<div class="text">If you are interested call <a href="01737 822959" class="tel">01737 822959</a> to book your aircraft/instructor.</div>

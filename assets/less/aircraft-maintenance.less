@@ -1,0 +1,39 @@
+@import "variables";
+@import "mixins";
+
+.aircraft-maintenance {
+  .overview {
+    overflow: hidden;
+
+    .overview-text {
+      overflow: hidden;
+
+      ul {
+        padding-left: 1em;
+        text-align: justify;
+        padding-right: 1em;
+
+        li {
+          padding-bottom: 0.5em;
+        }
+      }
+    }
+
+
+    img {
+      width: 100%;
+      height: auto;
+      max-width: 500px;
+
+      @media
+      only screen and (min-width: 714px) {
+        float: right;
+        width: 50%;
+      }
+
+      @media @desktop{
+        width: 480px;
+      }
+    }
+  }
+}

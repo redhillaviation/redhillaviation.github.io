@@ -5,28 +5,23 @@ title: Aircraft Maintenance
 tagline: Aircraft maintenance with Redhill Aviation
 navigation-title: Maintenance
 tags: [aircraft, maintenance, redhill, surrey, aviation, easa part m, subpart f, subpart g, came, composite, metal, flying]
-image:
-  feature: G-OAAAsmall.jpg
-
+main-class: aircraft-maintenance
 ---
 
-<html>
-<head>
-<style>
-img {
-    float: right;
-}
+<div class="overview">
+  <div>
+    <img src="{{ site.url }}/images/G-OAAAsmall.jpg" alt="aircraft-in-hanger"/>
+  </div>
+  <div class="overview-text">
+    <p>We can also accommodate your aircraft maintenance requirements:</p>
+    <div>
+      <ul>
+        <li>Redhill Aircraft Maintenance and Aircraft Leasing Ltd (T/A Redhill Air) is EASA Part M Subpart F & Subpart G based as required by M.A. 604, with full CAME management Authorisation for all Group 3 Metal & Composite Aircraft.</li>
+        <li>Redhill Aircraft Maintenance is a Diamond Aircraft and Thielert Diesel & Austro Diesel Engine Approved Service Centre and can Service Composite Aircraft</li>
+      </ul>
+    </div>
+  </div>
 
-</style>
-</head>
-<body>
-
-<p>We can also accommodate your aircraft maintenance requirements:</p>
-<div>
-<ul>
-<li>Redhill Aircraft Maintenance and Aircraft Leasing Ltd (T/A Redhill Air) is EASA Part M Subpart F & Subpart G based as required by M.A. 604, with full CAME management Authorisation for all Group 3 Metal & Composite Aircraft.</li>
-<li>Redhill Aircraft Maintenance is a Diamond Aircraft and Thielert Diesel & Austro Diesel Engine Approved Service Centre and can Service Composite Aircraft</li>
-</ul>
 </div>
 
 <h2>Scope of Work</h2>

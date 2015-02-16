@@ -48,14 +48,14 @@
   width:(100%/@grid * @cols);
 }
 
-.auto-img() {
+.auto-img(@width:451px) {
   img {
     width: 100%;
     height: auto;
-    max-width: 451px;
+    max-width: @width;
 
     @media @tablet {
-      width: 451px;
+      width: @width;
     }
   }
 }

@@ -2,5 +2,25 @@
 @import "mixins";
 
 .imc {
-  .auto-img()
+  .description {
+    overflow: hidden;
+    text-align: justify;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+    max-width: 451px;
+
+    @media
+    only screen and (min-width: 714px) {
+      padding-left: 0.5em;
+      float: right;
+      width: 50%;
+    }
+
+    @media @desktop{
+      width: 451px;
+    }
+  }
 }

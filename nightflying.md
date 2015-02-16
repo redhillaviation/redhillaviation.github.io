@@ -8,19 +8,10 @@ navigation-title: Training
 sub-navigation-title: Night Rating
 main-class: night-rating
 ---
-
-<html>
-<head>
-<style>
-img {
-    float: right;
-}
-</style>
-</head>
-<body>
-
+<div>
  <img src="{{ site.url }}/images/nightflying.jpg" alt="nightflying"/>
 
+<div class="description">
 The night rating is a 5 hour course with no exams or flight tests which qualifies you to fly VFR at night.
 It can also be included with the 45 hour PPL course and consists of at least:
 <ul>
@@ -28,3 +19,5 @@ It can also be included with the 45 hour PPL course and consists of at least:
 <li>1 hour dual night navigation</li>
 <li>5 take off and full stop landings as pilot in command (Solo)</li>
 </ul>
+</div>
+</div>

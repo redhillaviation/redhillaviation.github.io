@@ -4,7 +4,7 @@ permalink: /about-us/
 title: About us
 tagline:  Redhill Aviation
 navigation-title: About Us
-tags: [about, redhill, flying]
+tags: [about, redhill, flying, aviation, surrey, pilot]
 team:
   - name: Laurance Harley
     description: Deputy Chief Flying Instructor. Laurance started his aviation career aged just 14 on gliders, going solo aged 16 with the Air Cadets. He now holds a CPL/IR & MEP. Laurance instructs PPL, Night, IMC and CPL and is also an examiner. When not flying, he finds time to work as a full time Air Traffic Controller at Gatwick Airport!

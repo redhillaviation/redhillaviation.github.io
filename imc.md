@@ -29,10 +29,10 @@ Instruction includes:
 <ul>
 <li>Instrument flying (full and limited panel)</li>
 <li>Unusual attitude recoveries</li>
-<li>Instrument approaches (ILS, NDB, VOR, SRA RNAV))</li>
+<li>Instrument approaches (ILS, NDB, VOR, SRA, RNAV)</li>
 <li>Radio Navigation</li>
 </ul>
-Validity is for 25 months and requires a test to revalidate
+Validity is for 25 months and requires a test to revalidate.
 
 Course entry requirements:
 <ul>

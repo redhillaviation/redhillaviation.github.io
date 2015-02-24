@@ -3,9 +3,11 @@ layout: page
 description: "Redhill Aviation is a flying school based at Redhill Aerodrome"
 tags: [redhill, surrey, flying, aviation, lesson, school, ppl, lapl, cpl, aerodrome, hire, aircraft, lease]
 navigation-title: Home
-image:
-  feature: landing.jpg
 ---
+
+<div class="image-wrap">
+  <img src="{{ site.url }}/images/landing.jpg" alt="plane landing"/>
+</div>
 
 <p>Redhill Aviation is a flying school based at <a href="http://www.redhillaerodrome.com/">Redhill Aerodrome</a> in the beautiful Surrey countryside.
 </p><p>We provide training to both EASA PPL (Private Pilot's Licence) & LAPL (Light Aircraft Pilot's Licence) level as well as Night, IMC and aerobatic training, together with cross-channel check flights for those wishing to make their first trip overseas.

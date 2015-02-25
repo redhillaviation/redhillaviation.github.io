@@ -10,14 +10,14 @@ main-class: trial-flights
 ---
 
 <div>
-    We offer a range of air experience flights, from 30 minute experience flights to trips to other airfields and aerobatics for the thrill seeker. We also offer two PPL starter packages for those considering a PPL. Prices start from £95.
+    We offer a range of air experience flights, from 30 minute experience flights to trips to other airfields and aerobatics for the thrill-seeker. We also offer two PPL starter packages for those considering a Private Pilot's Licence of their own. Prices start from £95.
 </div>
 
 <p>
     <div>
         We offer:
         <ul>
-            <li><a href="#experience">30 or 60 minute air experience flight</a></li>
+            <li><a href="#experience">30 or 60 minute Air Experience flight</a></li>
             <li><a href="#aerobatics">Aerobatics Experience</a></li>
             <li><a href="#landaway">A flight to another airfield and back</a></li>
             <li><a href="#ppl">PPL Starter Packages</a></li>
@@ -26,7 +26,7 @@ main-class: trial-flights
 </p>
 
 <div id="experience" class="experience">
-    <div class="experience-title">30 or 60 minute air experience flight</div>
+    <div class="experience-title">30 or 60 minute Air Experience Flight</div>
 The air experience package consists of a short pre-flight briefing conducted in the classroom, or the aircraft, followed by a 30 or 60 minute introductory flying session with one of our qualified flight instructors. In either case you will get a chance both to fly the aircraft and to enjoy the view.
     <table class="prices-table trial-flight-prices">
         <thead>
@@ -130,7 +130,7 @@ The air experience package consists of a short pre-flight briefing conducted in 
 </div>
 
 <div id="landaway" class="experience">
-    <div class="experience-title">A flight to another airfield and back</div>
+    <div class="experience-title">A Flight to Another Airfield & Back</div>
     This experience consists of a flight, landing away at another airfield and then returning to Redhill.
     As with all trial lessons, we brief you first and you have the chance to fly the aircraft but with the added bonus of being able to experience a landing at another airfield.
     This is ideal for those looking to do something a little different or (four seater aircraft only) those who wish to share the fun (or cost) with friends/family.
@@ -193,8 +193,9 @@ The air experience package consists of a short pre-flight briefing conducted in 
 <div id="ppl" class="experience">
     <div class="experience-title">PPL Starter Packages</div>
     For those who are seriously considering continuing on to obtain their Private Pilot's Licence (PPL) we offer two starter packages.
-    <br> The "Flying Start" package is designed to get you started on your training towards the issue of your very own PPL. It comprises 2 x 45 minute lessons, taught by one of our friendly and experienced instructors, taking you through the initial stages of the PPL course. As with all our introductory packages the price is fully inclusive of landing fees, instruction, third party insurance and club membership for the duration of the flights.
-    <br>The "PPL Starter" package is the ultimate introductory package. This option provides five hours of flight training to get you well on your way towards the issue of your PPL. In addition to five hours of training, the package includes your own flight logbook and aircraft checklist and of course all landing fees, instruction, third party insurance and club membership for the duration of the package.
+</p>
+<p>The "Flying Start" package is designed to get you started on your training towards the issue of your very own PPL. It comprises 2 x 45 minute lessons, taught by one of our friendly and experienced instructors, taking you through the initial stages of the PPL course. As with all our introductory packages the price is fully inclusive of landing fees, instruction, third party insurance and club membership for the duration of the flights.</p>
+    <p>The "PPL Starter" package is the ultimate introductory package. This option provides five hours of flight training to get you well on your way towards the issue of your PPL. In addition to five hours of training, the package includes your own flight logbook and aircraft checklist, plus of course all landing fees, instruction, third party insurance and club membership for the duration of the package.
     <table class="prices-table ppl-starter-prices">
         <thead>
             <tr>
@@ -253,9 +254,9 @@ The air experience package consists of a short pre-flight briefing conducted in 
 <div class="terms-and-conditions" id="terms">
     <h4>Gift voucher terms and conditions</h4>
     <ul>
-        <li>Once you have purchased your air experience flight, please ring Redhill Aviation Flying Centre on 01737 822959 to arrange your booking.</li>
+        <li>Once you have purchased your Air Experience Flight, please ring Redhill Aviation Flying Centre on 01737 822959 to arrange your booking.</li>
         <li>If weather or technical reasons prevent your flight going ahead, another mutually convenient day will be organised.</li>
-        <li>Vouchers are valid for nine months from day of purchase, consideration for an extension may be given for exceptional reasons. </li>
+        <li>Vouchers are valid for nine months from day of purchase. Consideration for an extension may be given for exceptional reasons. </li>
         <li>Please print and retain your proof of purchase which must be brought along on the day of the lesson.</li>
         <li>Experience flights are non-refundable but may be transferred with the agreement of Redhill Aviation together with a £10 administration fee. The price includes temporary membership, landing and instructor fees.</li>
         <li>Should you wish to add to your experience, upgrades are available - please contact Redhill Aviation in advance. Such changes are easily made but may not be available on the day of flying due to other bookings.</li>
@@ -268,6 +269,6 @@ The air experience package consists of a short pre-flight briefing conducted in 
 
 <div class="call-to-book">
 <p>
-Alternatively book your flight experience by calling 01737 822959.
+Alternatively, book your flight experience by calling 01737 822959. We accept telephone payments using all major credit/debit cards.
 </p>
 </div>

@@ -149,7 +149,7 @@ main-class: aircraft-maintenance
 <tr>
             <td></td>
             <td></td>
-            <td>SIAI Marchetti: S205 series; including F260</td>
+            <td>SIAI Marchetti: S205 series; including SF260</td>
             <td align="center">Yes</td>
 		 <td align="center">Yes</td>
 

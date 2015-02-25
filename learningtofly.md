@@ -25,12 +25,12 @@ A minimum of 45 hours flight training which comprises of at least:
 
 The LAPL is a more restrictive pilot licence. Flying can only be carried out within European airspace.
 This can be carried out in one of our Single Engine Piston aircraft (SEP) up to 2000Kgs, a maximum of 3 passengers in VFR.
-This licence consists of 30 hours flying as follows:
+This licence consists of a minimum of 30 hours flying comprising:
 <ul>
 <li>15 hours dual instruction</li>
 <li>6 hours solo of which 3 must be cross country</li>
 <li>1 hour instrument flying</li>
-<li>9 ground exams</li>
+<li>9 theory exams</li>
 <li>Practical radio exam</li>
 <li>Flight test with one of our examiners</li>
 <li>You will also need a medical from an approved doctor.</li>

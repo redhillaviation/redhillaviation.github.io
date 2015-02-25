@@ -19,13 +19,19 @@ team:
     img: geoff1.jpg
     alt: BOSO
   - name: Dan Robertson
-    description: Qualified Flying Instructor. Dan has been flying for 15 years and works at weekends. He holds a CPL/IR and has aided many people to acheive their PPL.
+    description: Flying Instructor. Dan has been flying for 15 years and works at weekends. He holds a CPL/IR and has aided many people to acheive their PPL.
     img: dan1.jpg
     alt: dan
+  - name: Adam Wheatley
+    description: Flying Instructor. Adam gained his pilot's licence in 1987 and holds a CPL/IR ME. Adam has over 2,000 hours and is available at weekends to assist students along the road to their PPL.
+    img: Adam.JPG
+    alt: adam
+
   - name: Dave Thorne
     description: Operations Controller. Dave joined us in 2006 having previously worked as a manager at the Post Office. You will find him very knowledgeable, helpful and ready to answer any queries you may have.
     img: dave2.JPG
     alt: dave
+
 ---
 
 <div class="meet-the-team">

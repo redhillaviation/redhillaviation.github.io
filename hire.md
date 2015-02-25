@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /aircraft-hire/
-title: Aircraft hire
+title: Aircraft Hire
 tagline: Plane Hire with Redhill Aviation
 navigation-title: Aircraft Hire
-tags: [plane hire, redhill, flying]
+tags: [plane hire, aircraft, surrey, aeroplane, redhill, flying]
 ---
 
 <div>Prices listed below are inclusive of VAT but exclude landing and circuit fees.</div>

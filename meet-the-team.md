@@ -24,7 +24,7 @@ team:
     alt: dan
   - name: Adam Wheatley
     description: Flying Instructor. Adam gained his pilot's licence in 1987 and holds a CPL/IR ME. Adam has over 2,000 hours and is available at weekends to assist students along the road to their PPL.
-    img: Adam.JPG
+    img: Adam.jpg
     alt: adam
 
   - name: Dave Thorne

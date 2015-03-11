@@ -1,0 +1,55 @@
+@import "variables";
+@import "mixins";
+
+.home {
+  .scrolling-images {
+    text-align: center;
+  }
+
+  #scroll-viewport {
+    position: relative;
+    overflow: hidden;
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 501px;
+    height: 300px;
+    @media @tablet {
+      display: block;
+    }
+
+
+    table {
+      border-spacing: 0;
+      border-collapse: collapse;
+
+      td {
+        padding: 0;
+      }
+    }
+  }
+
+  #images-container {
+
+    img {
+      width: 501px;
+      height: 300px;
+      float: left;
+    }
+  }
+
+  .image-wrap {
+
+    text-align: center;
+
+    img {
+      width: 100%;
+      height: auto;
+
+      @media @tablet {
+        display: none;
+      }
+    }
+  }
+}

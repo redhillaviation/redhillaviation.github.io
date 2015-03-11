@@ -3,10 +3,30 @@ layout: page
 description: "Redhill Aviation is a flying school based at Redhill Aerodrome"
 tags: [redhill, surrey, flying, aviation, lesson, school, ppl, lapl, cpl, aerodrome, hire, aircraft, lease]
 navigation-title: Home
+main-class: home
 ---
 
+<div class="scrolling-images">
+  <div id="scroll-viewport">
+    <div id="images-container">
+      <table>
+        <tbody>
+          <tr>
+            <td><img id="first-scrollable" src="{{ site.url }}/images/scrolling/landing.jpg" alt="plane landing"/></td>
+            <td><img src="{{ site.url }}/images/scrolling/aero.png" alt="aero"/></td>
+            <td><img src="{{ site.url }}/images/scrolling/sunset.jpg" alt="sunset"/></td>
+            <td><img src="{{ site.url }}/images/scrolling/rainbow.jpg" alt="rainbow"/></td>
+            <td><img src="{{ site.url }}/images/scrolling/fleet.jpg" alt="fleet"/></td>
+            <td id="rpt"><img src="{{ site.url }}/images/scrolling/landing.jpg" alt="plane landing"/></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
 <div class="image-wrap">
-  <img src="{{ site.url }}/images/landing.jpg" alt="plane landing"/>
+  <img src="{{ site.url }}/images/scrolling/landing.jpg" alt="plane landing"/>
 </div>
 
 <p>Redhill Aviation is a flying school based at <a href="http://www.redhillaerodrome.com/">Redhill Aerodrome</a> in the beautiful Surrey countryside.

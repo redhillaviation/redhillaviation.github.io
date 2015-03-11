@@ -34,7 +34,7 @@ team:
 
   - name: Olesya Dewhurst
     description: Weekend Operations Assistant. Olesya is a new member of our team and works at weekends. For any bookings or questions, just ask!
-    img: Olesya.JPG
+    img: Olesya.jpg
     alt: Olesya
 
 ---

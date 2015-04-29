@@ -5,6 +5,7 @@ title: Aircraft Hire
 tagline: Plane Hire with Redhill Aviation
 navigation-title: Aircraft Hire
 tags: [plane hire, aircraft, surrey, aeroplane, redhill, flying]
+main-class: hire
 ---
 
 <div>Prices listed below are inclusive of VAT but exclude landing and circuit fees.</div>
@@ -57,3 +58,80 @@ tags: [plane hire, aircraft, surrey, aeroplane, redhill, flying]
 
     </tbody>
 </table>
+
+<h2>Frequent Flier Bonus</h2>
+
+This scheme is available 7 days a week and includes membership.
+
+It composed of a monthly fee and a reduced rate per hour.
+
+<table class="prices-table frequent-flier">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Cessna 152</th>
+            <th>PA28-181 Archer 180HP</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Amount per month</td>
+            <td align="center">£75.00</td>
+            <td align="center">£75.00</td>
+        </tr>
+        <tr>
+            <td>Price per hour</td>
+            <td align="center">£99.00</td>
+            <td align="center">£120.00</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class='examples-title'>Examples</div>
+
+The table below shows the calculated hourly cost depending on the number of hours you fly a month.
+
+<table class="prices-table frequent-flier-example">
+    <thead>
+        <tr>
+            <th></th>
+            <th colspan="2">Price per hour</th>
+        </tr>
+        <tr>
+            <th>Flying hours a month</th>
+            <th>Cessna 152</th>
+            <th>PA28-181 Archer 180HP</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>3</td>
+            <td align="center">£124.00</td>
+            <td align="center">£145.00</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td align="center">£117.75</td>
+            <td align="center">£138.75</td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td align="center">£108.33</td>
+            <td align="center">£129.37</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td align="center">105.25</td>
+            <td align="center">£126.25</td>
+        </tr>
+        <tr>
+            <td>20</td>
+            <td align="center">£102.75</td>
+            <td align="center">£123.75</td>
+        </tr>
+
+    </tbody>
+</table>
+
+The scheme is offered to full PPLs and LAPLs, and subject to committing to twelve months agreement.
+

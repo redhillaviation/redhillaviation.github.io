@@ -55,24 +55,19 @@ The air experience package consists of a short pre-flight briefing conducted in 
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" value="_s-xclick">
             <input type="hidden" name="hosted_button_id" value="YGF5AC66JV7XS">
-            <table class="paypal-table">
-                <tr>
-                    <th><input type="hidden" name="on0" value="Flight Choices"></th>
-                </tr>
-                <tr>
-                    <td>
-                        <select name="os0">
-                            <option value="30 mins in a two seat aircraft">30 mins in a two seat aircraft £95.00 GBP</option>
-                            <option value="30 mins in a four seat aircraft">30 mins in a four seat aircraft £130.00 GBP</option>
-                            <option value="60 mins in a two seat aircraft">60 mins in a two seat aircraft £170.00 GBP</option>
-                            <option value="60 mins in a four seat aircraft">60 mins in a four seat aircraft £199.00 GBP</option>
-                        </select>
-                    </td>
-                    <td>
-                        <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-                    </td>
-                </tr>
-            </table>
+            <input type="hidden" name="on0" value="Flight Choices"></th>
+
+            <div class="payment">
+                <select name="os0">
+                    <option value="30 mins in a two seat aircraft">30 mins in a two seat aircraft £95.00 GBP</option>
+                    <option value="30 mins in a four seat aircraft">30 mins in a four seat aircraft £130.00 GBP</option>
+                    <option value="60 mins in a two seat aircraft">60 mins in a two seat aircraft £170.00 GBP</option>
+                    <option value="60 mins in a four seat aircraft">60 mins in a four seat aircraft £199.00 GBP</option>
+                </select>
+            
+                <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+            </div>
+
             <input type="hidden" name="currency_code" value="GBP">
             <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
         </form>
@@ -105,26 +100,21 @@ The air experience package consists of a short pre-flight briefing conducted in 
     <div>
         <div class="gift-voucher">Buy a gift voucher (<a href="#terms">Terms and Conditions</a>)</div>
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-            <input type="hidden" name="cmd" value="_s-xclick">
-            <input type="hidden" name="hosted_button_id" value="4VS46EWRMBUQ6">
-            <table class="paypal-table">
-                <tr>
-                    <td><input type="hidden" name="on0" value="Aerobatic Flight Choices"></td>
-                </tr>
-                <tr>
-                    <td>
-                        <select name="os0">
-                            <option value="30 mins in a C152 Aerobat -">30 mins in a C152 Aerobat - £115.00 GBP</option>
-                            <option value="60 mins in a C152 Aerobat -">60 mins in a C152 Aerobat - £200.00 GBP</option>
-                        </select>
-                    </td>
-                    <td>
-                        <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-                    </td>
-                </tr>
-            </table>
-            <input type="hidden" name="currency_code" value="GBP">
-            <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+           <input type="hidden" name="cmd" value="_s-xclick">
+           <input type="hidden" name="hosted_button_id" value="4VS46EWRMBUQ6">
+           <input type="hidden" name="on0" value="Aerobatic Flight Choices"></td>
+           
+           <div class="payment">
+                <select name="os0">
+                    <option value="30 mins in a C152 Aerobat -">30 mins in a C152 Aerobat - £115.00 GBP</option>
+                    <option value="60 mins in a C152 Aerobat -">60 mins in a C152 Aerobat - £200.00 GBP</option>
+                </select>
+                
+                <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+           </div>
+            
+           <input type="hidden" name="currency_code" value="GBP">
+           <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
         </form>
     </div>
 </div>
@@ -164,26 +154,20 @@ The air experience package consists of a short pre-flight briefing conducted in 
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" value="_s-xclick">
             <input type="hidden" name="hosted_button_id" value="X4HTU7AKBN286">
-            <table class="paypal-table">
-                <tr>
-                    <td><input type="hidden" name="on0" value="Flight Choices">Flight Choices</td>
-                </tr>
-                <tr>
-                    <td>
-                        <select name="os0">
-                            <option value="Fairoaks - 2 seater aircraft">Fairoaks - 2 seater aircraft £205.00 GBP</option>
-                            <option value="Fairoaks - 4 seat aircraft">Fairoaks - 4 seat aircraft £242.00 GBP</option>
-                            <option value="Biggin Hill - 2 seater aircraft">Biggin Hill - 2 seater aircraft £205.00 GBP</option>
-                            <option value="Biggin Hill - 4 seater aircraft">Biggin Hill - 4 seater aircraft £242.00 GBP</option>
-                            <option value="Headcorn - 2 seater aircraft">Headcorn - 2 seater aircraft £305.00 GBP</option>
-                            <option value="Headcorn - 4 seater aircraft">Headcorn - 4 seater aircraft £370.00 GBP</option>
-                        </select>
-                    </td>
-                    <td>
-                        <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-                    </td>
-                </tr>
-            </table>
+            <input type="hidden" name="on0" value="Flight Choices">
+                    
+            <div class="payment">        
+                <select name="os0">
+                    <option value="Fairoaks - 2 seater aircraft">Fairoaks - 2 seater aircraft £205.00 GBP</option>
+                    <option value="Fairoaks - 4 seat aircraft">Fairoaks - 4 seat aircraft £242.00 GBP</option>
+                    <option value="Biggin Hill - 2 seater aircraft">Biggin Hill - 2 seater aircraft £205.00 GBP</option>
+                    <option value="Biggin Hill - 4 seater aircraft">Biggin Hill - 4 seater aircraft £242.00 GBP</option>
+                    <option value="Headcorn - 2 seater aircraft">Headcorn - 2 seater aircraft £305.00 GBP</option>
+                    <option value="Headcorn - 4 seater aircraft">Headcorn - 4 seater aircraft £370.00 GBP</option>
+                </select>
+                <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+            </div>
+            
             <input type="hidden" name="currency_code" value="GBP">
             <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
         </form>
@@ -223,24 +207,19 @@ The air experience package consists of a short pre-flight briefing conducted in 
         <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
             <input type="hidden" name="cmd" value="_s-xclick">
             <input type="hidden" name="hosted_button_id" value="LGYVU77DLQ784">
-            <table class="paypal-table">
-                <tr>
-                    <td><input type="hidden" name="on0" value="Aircraft Choices"></td>
-                </tr>
-                <tr>
-                    <td>
-                        <select name="os0">
-                            <option value="Flying Start (2 x 45 minutes) - Two Seat Aircraft">Flying Start (2 x 45 minutes) - Two Seat Aircraft £300.00 GBP</option>
-                            <option value="Flying Start (2 x 45 minutes) -Four Seat Aircraft">Flying Start (2 x 45 minutes) -Four Seat Aircraft £350.00 GBP</option>
-                            <option value="PPL Starter (5 hours) - Two Seat Aircraft">PPL Starter (5 hours) - Two Seat Aircraft £950.00 GBP</option>
-                            <option value="PPL Starter (5 hours) - Four Seat Aircraft">PPL Starter (5 hours) - Four Seat Aircraft £1,150.00 GBP</option>
-                        </select>
-                    </td>
-                    <td>
-                        <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
-                    </td>
-                </tr>
-            </table>
+            <input type="hidden" name="on0" value="Aircraft Choices">
+            
+            <div class="payment">        
+                <select name="os0">
+                    <option value="Flying Start (2 x 45 minutes) - Two Seat Aircraft">Flying Start (2 x 45 minutes) - Two Seat Aircraft £300.00 GBP</option>
+                    <option value="Flying Start (2 x 45 minutes) -Four Seat Aircraft">Flying Start (2 x 45 minutes) -Four Seat Aircraft £350.00 GBP</option>
+                    <option value="PPL Starter (5 hours) - Two Seat Aircraft">PPL Starter (5 hours) - Two Seat Aircraft £950.00 GBP</option>
+                    <option value="PPL Starter (5 hours) - Four Seat Aircraft">PPL Starter (5 hours) - Four Seat Aircraft £1,150.00 GBP</option>
+                </select>
+                
+                <input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+            </div>
+            
             <input type="hidden" name="currency_code" value="GBP">
             <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
         </form>

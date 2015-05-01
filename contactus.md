@@ -28,7 +28,7 @@ main-class: contact-us
 
 <div class="how-to-find-us">
 How to find us:
-<img src="{{ site.url }}/images/how-to-find-us2.gif"/>
+<img src="{{ site.url }}/images/contact-us/how-to-find-us.gif"/>
 </div>
 
 

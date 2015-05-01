@@ -10,7 +10,7 @@ main-class: aircraft-maintenance
 
 <div class="overview">
   <div>
-    <img src="{{ site.url }}/images/G-OAAAsmall.jpg" alt="aircraft-in-hanger"/>
+    <img src="{{ site.url }}/images/maintenance/aircraft-in-hanger.jpg" alt="aircraft-in-hanger"/>
   </div>
   <div class="overview-text">
     <p>We can also accommodate your aircraft maintenance requirements:</p>

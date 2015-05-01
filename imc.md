@@ -9,7 +9,7 @@ sub-navigation-title: IMC
 main-class: imc
 ---
 <div>
- <img src="{{ site.url }}/images/imc.jpg" alt="imc"/>
+ <img src="{{ site.url }}/images/imc/imc.jpg" alt="imc"/>
 
 <div class="description">
 The IMC rating qualifies you to fly IFR in class D to G airspace, together with making instrument approaches down to a absolute minimum of 500 feet. The course consists of 15 hours dual instruction, a simple written exam and a flight test.

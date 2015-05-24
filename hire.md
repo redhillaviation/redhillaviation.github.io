@@ -98,7 +98,7 @@ It composed of a monthly fee and a reduced rate per hour.
 
 <div class='examples-title'>Examples</div>
 
-The table below shows the calculated hourly cost depending on the number of hours you fly a month.
+The table below shows the calculated hourly cost depending on the number of hours you fly a month, and factors in the frequent flier fee of £75.00 per month.
 
 <table class="prices-table frequent-flier-example">
     <thead>

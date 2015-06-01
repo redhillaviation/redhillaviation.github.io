@@ -39,7 +39,7 @@ main-class: home
 
 <p>We also offer a full range of <a href="{{ site.url }}/experience-flights">air experience flights</a>, ranging from a 30 minute taster flight to a "land-away" experience to enjoy with friends/family. For the really adventurous, we offer aerobatic flights too!<p>
 
-<p><img src="{{ site.url }}/images/aerosjpg.jpg" alt="aerobatics"/>Check out <a href="https://www.facebook.com/video.php?v=944451842239362&set=vb.187356691282218&type=2&theater">this video</a> of one of our aerobatics experiences!
+<p><img src="{{ site.url }}/images/smallaerospicture.jpg" alt="aerobatics"/>Check out <a href="https://www.facebook.com/video.php?v=944451842239362&set=vb.187356691282218&type=2&theater">this video</a> of one of our aerobatics experiences!
 
 </p>
 

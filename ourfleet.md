@@ -8,10 +8,10 @@ tags: [fleet, redhill, flying]
 main-class: our-fleet
 fleet:
   - name: G-BOSO our aerobatic C152
-    img: BOSO2.jpg
+    img: gboso.jpg
     alt: GBOSO
   - name: G-BIUY Piper PA28-180, our four-seat tourer - with Garmin 430 & leather seats
-    img: gbiuy2.jpg
+    img: gbiuy.jpg
     alt: GBIUY
   - name: G-BOLV, our C152
     img: gbolv.jpg
@@ -33,7 +33,7 @@ Redhill Aviation operates a fleet of Cessna 152, two-seat training aircraft and 
 <div class="fleet-aircraft fleet-{% cycle 'left', 'right' %}">
 <div class="fleet-name">{{ aircraft.name }}</div>
 <div class="fleet-img">
-<img src="{{ site.url }}/images/{{ aircraft.img }}" alt="{{ aircraft.alt }}"/>
+<img src="{{ site.url }}/images/our-fleet/{{ aircraft.img }}" alt="{{ aircraft.alt }}"/>
 </div>
 </div>
 {% if modulo == '1' or forloop.last %}

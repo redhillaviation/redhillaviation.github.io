@@ -154,6 +154,7 @@
       padding-left: 0;
       display: none;
     }
+
     .mobile-show-menu {
       display: block;
     }
@@ -188,6 +189,10 @@
     .active-menu,
     .active-submenu {
       background-color: @blue-colour;
+    }
+
+    .submenu-hidden-menu {
+      z-index: 100;
     }
 
     @media @tablet {
@@ -242,8 +247,6 @@
 
         }
       }
-
-
 
     }
 

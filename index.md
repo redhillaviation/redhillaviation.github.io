@@ -50,7 +50,8 @@ main-class: home
 
 <p> We have a large fleet of popular two and four seat aircraft as well as complex single and multi engine piston aircraft available.
 </p>
-<p>You will benefit from dedicated briefing rooms and you may enjoy free beverages in a relaxing atmosphere with our operations staff.
+<p>You will benefit from dedicated briefing rooms and you may enjoy free beverages in a relaxing atmosphere with our operations staff.</p>
+<p>There is ample free car parking on-site along with a choice of two cafes overlooking the aerodrome.</p>
 
 
 <p>Check out <a href="https://www.facebook.com/video.php?v=944451842239362&set=vb.187356691282218&type=2&theater">this video</a> of one of our aerobatics experiences!

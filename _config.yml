@@ -44,6 +44,8 @@ links:
         url: /commercial/
       - title: FI(R)
         url: /flight-instructor/
+      - title: MEP
+        url: /multi-engine-piston/
   - title: Aircraft Hire
     url: /aircraft-hire/
   - title: Maintenance

@@ -29,17 +29,31 @@ main-class: home
   <img src="{{ site.url }}/images/scrolling/landing.jpg" alt="plane landing"/>
 </div>
 
-<p>Redhill Aviation is a flying school based at <a href="http://www.redhillaerodrome.com/">Redhill Aerodrome</a> in the beautiful Surrey countryside.
-</p><p>We provide training to both EASA PPL (Private Pilot's Licence) & LAPL (Light Aircraft Pilot's Licence) level as well as Night, IMC and aerobatic training, together with cross-channel check flights for those wishing to make their first trip overseas.
+<p>Redhill Aviation Flight Centre is a well-established, friendly, EASA Approved Training Organisation (ATO) and Flying Club providing flying training and testing at very competitive rates for:
+<ul>
+<li>PPL</li>
+<li>CPL</li>
+<li>FI(R)</li>
+<li>IMC</li>
+<li>Night</li>
+<li>Aerobatics</li>
+<li>MEP</li>
 
+</ul>
+ </p>
+
+ <p>We also offer a full range of <a href="{{ site.url }}/experience-flights">air experience flights</a>, ranging from a 30 minute taster flight to a "land-away" experience to enjoy with friends/family. For the really adventurous, we offer aerobatic flights too!<p>
+
+<p>We have a team of dedicated instructors, all of whom are professionally qualified pilots and have worked for many years in aviation. We also have our own flight examiners.</p>
+
+<p>We are based at <a href="http://www.redhillaerodrome.com/">Redhill Aerodrome</a> in the beautiful Surrey countryside. Redhill Aerodrome is one of the oldest, purpose-built airfields in the country. It is a licensed airfield with three runways and full Air Traffic Control. It is open 0900 to 1700 during winter months and 0900 to 1900 during the summer, extensions can also be arranged.</p>
+
+<p> We have a large fleet of popular two and four seat aircraft as well as complex single and multi engine piston aircraft available.
 </p>
-<p>We have both full-time and part-time instructors, all of whom have professional pilot qualifications and have worked for many years in aviation.</p>
+<p>You will benefit from dedicated briefing rooms and you may enjoy free beverages in a relaxing atmosphere with our operations staff.
 
-<p>Redhill aerodrome is a licensed airfield with three runways and full Air Traffic Control. It is open 0900 to 1700 during winter months and 0900 to 1900 during the summer, extensions can also be arranged.</p>
 
-<p>We also offer a full range of <a href="{{ site.url }}/experience-flights">air experience flights</a>, ranging from a 30 minute taster flight to a "land-away" experience to enjoy with friends/family. For the really adventurous, we offer aerobatic flights too!<p>
-
-<p><img src="{{ site.url }}/images/smallaerospicture.jpg" alt="aerobatics"/>Check out <a href="https://www.facebook.com/video.php?v=944451842239362&set=vb.187356691282218&type=2&theater">this video</a> of one of our aerobatics experiences!
+<p>Check out <a href="https://www.facebook.com/video.php?v=944451842239362&set=vb.187356691282218&type=2&theater">this video</a> of one of our aerobatics experiences!
 
 </p>
 
